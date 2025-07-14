@@ -28,15 +28,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          
+          - name: Build documentation
+          run: |
+            cd docs
+            pandoc *.md -o ../index.md
+            
+      - name: Prepare site directory
+        run: |
+          mkdir -p _site
+          cp index.md _site/index.md
+            
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   # Deployment job
   deploy:
