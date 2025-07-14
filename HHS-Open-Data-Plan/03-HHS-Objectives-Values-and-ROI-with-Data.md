@@ -1,8 +1,13 @@
 ## HHS Objectives, Values, and Return on Investment (ROI) with Data
 
-| **SHARED PURPOSE** | **CORE VALUES** |
+| SHARED PURPOSE | CORE VALUES |
 |--------------------|-----------------|
-| Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans. | **1. TRANSPARENCY:** Radical openness by default.<br> **2. PURPOSE:** Data that serves the public good.<br> **3. RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.<br> **4. EXCELLENCE:** Real-world evidence drives impact.<br> **5. RESPECT:** People and patients as equal partners.<br> **6. INTEGRITY:** Find the truth. Tell the truth. |  
+| Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans. | 1. TRANSPARENCY: Radical openness by default. | 
+| | 2. PURPOSE: Data that serves the public good. |
+| | 3. RELENTLESS OPTIMIZATION: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability. |
+| | 4. EXCELLENCE: Real-world evidence drives impact. |
+| | 5. RESPECT: People and patients as equal partners. |
+| | 6. INTEGRITY: Find the truth. Tell the truth. |  
 
 HHS is trusted with personal data by all Americans, patients, and clinicians alike. HHS must honor that trust, by keeping data private, while delivering value and 
 rewarding individuals for investing their data and digital stories with us. The HHS Open Data approach ensures that the healthcare system is fully informed with HHS data, 
@@ -28,14 +33,14 @@ submit issues and ideas, in response to a general HHS request for public input a
 an online form with open-ended space for public response. With this agile approach, HHS aims to avoid the pitfalls of bureaucratic compliance while maintaining focus on 
 the ultimate goal: fostering collaboration and unlocking the transformative power of data for operational efficiency, scientific discovery, innovation, and public impact.  
 
-The value of HHS Open Data is far reaching:  
-- __Eliminate silos to improve operational efficiencies:__ Streamline data-sharing processes across divisions to reduce redundancies and enhance program effectiveness.  
--   __Drive new business models:__ Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.  
+The value of HHS Open Data is far reaching:
+- __Eliminate silos to improve operational efficiencies:__ Streamline data-sharing processes across divisions to reduce redundancies and enhance program effectiveness.
+-   __Drive new business models:__ Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.
 -   __Fuel American innovation:__ Provide researchers, entrepreneurs, and policymakers with access to high-value datasets that catalyze advancements in science, technology,
-and public health.  
--   __Accelerate scientific breakthroughs:__ Facilitate the use of real-world data to inform evidence-based research and policy decisions.  
--   __Demystify government with transparency:__ Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.  
--   __Maximize taxpayers’ ROI on HHS data investments:__ Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.  
+and public health.
+-   __Accelerate scientific breakthroughs:__ Facilitate the use of real-world data to inform evidence-based research and policy decisions.
+-   __Demystify government with transparency:__ Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.
+-   __Maximize taxpayers’ ROI on HHS data investments:__ Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.
 
 ### Everyday Leadership: Driving Open Data Transformation  
 
