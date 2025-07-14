@@ -34,10 +34,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
           
-          - name: Build documentation
-          run: |
-            cd docs
-            pandoc *.md -o ../index.md
+      - name: Build documentation
+        run: |
+          cd docs
+          pandoc *.md -o ../index.md
             
       - name: Prepare site directory
         run: |
