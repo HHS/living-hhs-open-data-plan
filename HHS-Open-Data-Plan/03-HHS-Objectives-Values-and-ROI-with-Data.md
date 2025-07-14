@@ -1,21 +1,8 @@
 ## HHS Objectives, Values, and Return on Investment (ROI) with Data
 
-<table>
-  <tr>
-    <th>**SHARED PURPOSE**</th>
-    <th>**CORE VALUES**</th>
-  </tr>
-  <tr>
-    <td>Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit 
-      all Americans.</td>
-    <td>**1. TRANSPARENCY:** Radical by openness by default.<br/>
-    **2. PURPOSE:** Data that serves the public good.<br/>
-    **3. RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.<br>
-    **4. EXCELLENCE:** Real-world evidence drives impact.<br/>
-    **5. RESPECT:** People and patients as equal partners.<br/>
-    **6. INTEGRITY:** Find the truth. Tell the truth.</td>
-  </tr>
-</table>  
+| **SHARED PURPOSE** | **CORE VALUES** |
+|--------------------|-----------------|
+| Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans. | **1. TRANSPARENCY:** Radical openness by default.<br> **2. PURPOSE:** Data that serves the public good.<br> **3. RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.<br> **4. EXCELLENCE:** Real-world evidence drives impact.<br> **5. RESPECT:** People and patients as equal partners.<br> **6. INTEGRITY:** Find the truth. Tell the truth. |  
 
 HHS is trusted with personal data by all Americans, patients, and clinicians alike. HHS must honor that trust, by keeping data private, while delivering value and 
 rewarding individuals for investing their data and digital stories with us. The HHS Open Data approach ensures that the healthcare system is fully informed with HHS data, 
@@ -25,8 +12,7 @@ harms and confidentiality, embracing our responsibilities.
 Change will move at the speed of trust. Trust may be defined as “consistency over time” and this Living Plan acknowledges that HHS can do more to build trust in the 
 ecosystem. Rebuilding and strengthening the public’s trust in HHS data is paramount for HHS Open Data success, and change is here. In 2025, HHS recommits to reliably 
 sharing high-quality data, consistently engaging with radical transparency, adopting “open” methods (e.g., [Open Science](https://www.science.gov/), 
-[Open Innovation](https://challenge.gov/), [Open Source Code](https://github.com/HHS)), and openly 
-communicating with opportunities for two-way public engagements, events, and public-private partnerships.  
+[Open Innovation](https://challenge.gov/), [Open Source Code](https://github.com/HHS)), and openly communicating with opportunities for two-way public engagements, events, and public-private partnerships.  
 
 ### Open Methods to Improve the Living HHS Open Data Plan  
 
@@ -70,11 +56,11 @@ silos, while actively answering. All HHS staff can aid this transformation by as
 
 __1. How can I responsibly publish more “open by default” data on [HealthData.gov](https://healthdata.gov/)?__  
 Remember, the public has a legal right to federal data when expected societal benefits/rewards outweigh expected costs/risks (e.g., balancing accessibility and security 
-while ensuring quality, ethical use, and protection of priority data assets).
+while ensuring quality, ethical use, and protection of priority data assets).  
 
 __2. How can I more transparently engage, listen, and respond to citizens and public feedback?__  
 Remember, the Evidence Act mandates “open by default” data and HHS policy advances open science (free public access without paywalls), and successful delivery involves 
-two-way public engagements with responsiveness to citizens. 
+two-way public engagements with responsiveness to citizens.  
 
 __3. How do I ensure, measure, and track real-world impact from my HHS data work?__  
 Responsible data sharing with a “yes” enabling culture is a good step and necessary—yet insufficient—to transform raw data into understanding and insights to guide decisions 
@@ -83,8 +69,8 @@ must hold ourselves accountable to these measurable metrics of success that will
 positive outcomes to U.S. health and human lives.  
 
 Lastly, HHS Open Data is not just about numbers; it is about the people with the human dimensions. With a holistic view of data science, HHS must prioritize the lifting of 
-people and sharing data-driven stories. “[Stories are data with a soul](https://healthdata.gov/),” to paraphrase Brené Brown, and the 2025 HealthData.gov refresh features stories to connect our HHS 
-data with collective purpose.  
+people and sharing data-driven stories. “[Stories are data with a soul](https://healthdata.gov/),” to paraphrase Brené Brown, and the 2025 HealthData.gov refresh features 
+stories to connect our HHS data with collective purpose.  
 
 By addressing the above questions and embracing a culture of transparency, collaboration, and accountability, HHS commits to unlocking the full potential of its data to 
 enhance the health and well-being of all Americans. Join us!  
