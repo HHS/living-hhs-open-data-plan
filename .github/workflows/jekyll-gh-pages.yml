@@ -36,7 +36,7 @@ jobs:
           
       - name: Build documentation
         run: |
-          cd docs
+          cd HHS-Open-Data-Plan
           pandoc *.md -o ../index.md
             
       - name: Prepare site directory
