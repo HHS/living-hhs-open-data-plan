@@ -2,18 +2,18 @@
 
 <table>
   <tr>
-    <th><b>SHARED PURPOSE</b></th>
-    <th><b>CORE VALUES</b></th>
+    <th>**SHARED PURPOSE**</th>
+    <th>**CORE VALUES**</th>
   </tr>
   <tr>
     <td>Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit 
       all Americans.</td>
-    <td><b>1. TRANSPARENCY:</b> Radical by openness by default.<br>
-    <b>2. PURPOSE:</b> Data that serves the public good.<br>
-    <b>3. RELENTLESS OPTIMIZATION:</b> Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.<br>
-    <b>4. EXCELLENCE:</b> Real-world evidence drives impact.<br>
-    <b>5. RESPECT:</b> People and patients as equal partners.<br>
-    <b>6. INTEGRITY:</b> Find the truth. Tell the truth.</td>
+    <td>**1. TRANSPARENCY:** Radical by openness by default.<br/>
+    **2. PURPOSE:** Data that serves the public good.<br/>
+    **3. RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.<br>
+    **4. EXCELLENCE:** Real-world evidence drives impact.<br/>
+    **5. RESPECT:** People and patients as equal partners.<br/>
+    **6. INTEGRITY:** Find the truth. Tell the truth.</td>
   </tr>
 </table>  
 
@@ -44,12 +44,12 @@ the ultimate goal: fostering collaboration and unlocking the transformative powe
 
 The value of HHS Open Data is far reaching:  
 - __Eliminate silos to improve operational efficiencies:__ Streamline data-sharing processes across divisions to reduce redundancies and enhance program effectiveness.  
--	__Drive new business models:__ Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.  
--	__Fuel American innovation:__ Provide researchers, entrepreneurs, and policymakers with access to high-value datasets that catalyze advancements in science, technology,
+-   __Drive new business models:__ Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.  
+-   __Fuel American innovation:__ Provide researchers, entrepreneurs, and policymakers with access to high-value datasets that catalyze advancements in science, technology,
 and public health.  
--	__Accelerate scientific breakthroughs:__ Facilitate the use of real-world data to inform evidence-based research and policy decisions.  
--	__Demystify government with transparency:__ Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.  
--	__Maximize taxpayers’ ROI on HHS data investments:__ Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.  
+-   __Accelerate scientific breakthroughs:__ Facilitate the use of real-world data to inform evidence-based research and policy decisions.  
+-   __Demystify government with transparency:__ Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.  
+-   __Maximize taxpayers’ ROI on HHS data investments:__ Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.  
 
 ### Everyday Leadership: Driving Open Data Transformation  
 
