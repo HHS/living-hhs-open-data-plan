@@ -1,5 +1,5 @@
 # Living HHS Open Data Plan
-Welcome to the HHS Open Data Plan! This community serves as a mechanism for HHS and public users collaborate, share ideas, and dynamically contribute to this "living" document.
+Welcome to the Living HHS Open Data Plan! This community serves as a mechanism for HHS and public users collaborate, share ideas, and dynamically contribute to this "living" document.
 
 ## Feedback
 If you have ideas for how we can improve or add to our capacity building efforts and methods, please let us know by filing an [issue on our GitHub repository](https://github.com/HHS/hhs-open-data-plan/issues/new).
