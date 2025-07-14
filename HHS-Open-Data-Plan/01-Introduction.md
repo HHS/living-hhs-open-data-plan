@@ -18,65 +18,65 @@ Over 30 individuals contributed as co-authors and editors to this Living Open Da
 from all Operating Divisions and Staff Divisions in June 2025. Special thanks to co-authors, editors, and contributors:
 <table>
   <tr>
-    <td>**Allen, Jelena** (CBHSQ/SAMHSA/HHS)</td>
-    <td>**Kleinstreuer, Nicole** (OD/NIH/HHS)</td>
+    <td>Allen, Jelena (CBHSQ/SAMHSA/HHS)</td>
+    <td>Kleinstreuer, Nicole (OD/NIH/HHS)</td>
   </tr>
     <tr>
-        <td>**Beach, Thomas** (ODAR/FDA/HHS)</td>
-        <td>**Layden, Jennifer** (OD/CDC/HHS)</td>
+        <td>Beach, Thomas (ODAR/FDA/HHS)</td>
+        <td>Layden, Jennifer (OD/CDC/HHS)</td>
     <tr>
-        <td>**Blase, Alec** (ASTP/OS/HHS)</td>
-        <td>**Mandel, Grace** (OD/CDC/HHS)</td>
+        <td>Blase, Alec (ASTP/OS/HHS)</td>
+        <td>Mandel, Grace (OD/CDC/HHS)</td>
     <tr>
-        <td>**Broussard, Cheryl** (OD/CDC/HHS)</td>
-        <td>**Minor, Clark** (IOS/HHS)</td>
+        <td>Broussard, Cheryl (OD/CDC/HHS)</td>
+        <td>Minor, Clark (IOS/HHS)</td>
     <tr>
-        <td>**Callahan, Kenneth** (IOS/HHS)</td>
-        <td>**Mohan, Chandra** (OMTO/SAMHSA/HHS)</td>
+        <td>Callahan, Kenneth (IOS/HHS)</td>
+        <td>Mohan, Chandra (OMTO/SAMHSA/HHS)</td>
     <tr>
-        <td>**Caponiti, Anthony** (ASTP/OS/HHS)</td>
-        <td>**Morris, Christopher** (KME/ACF/HHS)</td>
+        <td>Caponiti, Anthony (ASTP/OS/HHS)</td>
+        <td>Morris, Christopher (KME/ACF/HHS)</td>
     <tr>
-        <td>**Carrazana, Dorn** (CDRH/FDA/HHS)</td>
-        <td>**Ogilvie, Jessica** (OD/CDC/HHS)</td>
+        <td>Carrazana, Dorn (CDRH/FDA/HHS)</td>
+        <td>Ogilvie, Jessica (OD/CDC/HHS)</td>
     <tr>
-        <td>**Cono, Joanne** (OD/CDC/HHS)</td>
-        <td>**Pishko, Gregory** (ODAR/FDA/HHS)</td>
+        <td>Cono, Joanne (OD/CDC/HHS)</td>
+        <td>Pishko, Gregory (ODAR/FDA/HHS)</td>
     <tr>
-        <td>**Decausemaker, Remy** (DSAC/CMS/HHS)</td>
-        <td>**Posnack, Steve** (ASTP/OS/HHS)</td>
+        <td>DeCausemaker, Remy (DSAC/CMS/HHS)</td>
+        <td>Posnack, Steve (ASTP/OS/HHS)</td>
     <tr>
-        <td>**Dillion, Christopher** (NCATS/NIH/HHS)</td>
-        <td>**Ramanathan Holiday, Tara** (OD/CDC/HHS)</td>
+        <td>Dillion, Christopher (NCATS/NIH/HHS)</td>
+        <td>Ramanathan Holiday, Tara (OD/CDC/HHS)</td>
     <tr>
-        <td>**German, Claire** (ASTP/OS/HHS)</td>
-        <td>**Ritchey, Matthew** (OD/CDC/HHS)</td>
+        <td>German, Claire (ASTP/OS/HHS)</td>
+        <td>Ritchey, Matthew (OD/CDC/HHS)</td>
     <tr>
-        <td>**Gleason, Amy** (OD/CMS/HHS)</td>
-        <td>**Snyder, John** (HRSA/HHS)</td>
+        <td>Gleason, Amy (OD/CMS/HHS)</td>
+        <td>Snyder, John (HRSA/HHS)</td>
     <tr>
-        <td>**Gregurick, Susan** (OD/NIH/HHS)</td>
-        <td>**Supplee, Lauren** (KMA/ACF/HHS)</td>
+        <td>Gregurick, Susan (OD/NIH/HHS)</td>
+        <td>Supplee, Lauren (KMA/ACF/HHS)</td>
     <tr>
-        <td>**Honey, Kristen** (ASTP/OS/HHS)</td>
-        <td>**Thomson, Alastair** (TIO/ARPA-H/HHS)</td>
+        <td>Honey, Kristen (ASTP/OS/HHS)</td>
+        <td>Thomson, Alastair (TIO/ARPA-H/HHS)</td>
     <tr>
-        <td>**Isaacman-Beck, Jesse** (ASTP/OS/HHS)</td>
-        <td>**Thornbrugh, Mitchell** (IHS/HHS)</td>
+        <td>Isaacman-Beck, Jesse (ASTP/OS/HHS)</td>
+        <td>Thornbrugh, Mitchell (IHS/HHS)</td>
     <tr>
-        <td>**Jani, Pooja** (CDRH/FDA/HHS)</td>
-        <td>**Trotter, Fred** (OD/CMS/HHS)</td>
+        <td>Jani, Pooja (CDRH/FDA/HHS)</td>
+        <td>Trotter, Fred (OD/CMS/HHS)</td>
     <tr>
-        <td>**Juluru, Krishna** (CDRH/FDA/HHS)</td>
-        <td>**Vigneshwaran, Shanthi** (ODAR/FDA/HHS)</td>
+        <td>Juluru, Krishna (CDRH/FDA/HHS)</td>
+        <td>Vigneshwaran, Shanthi (ODAR/FDA/HHS)</td>
     <tr>
-        <td>**Keane, Thomas** (ASTP/OS/HHS)</td>
-        <td>**Walsh, Jeremy** (OC/FDA/HHS)</td>
+        <td>Keane, Thomas (ASTP/OS/HHS)</td>
+        <td>Walsh, Jeremy (OC/FDA/HHS)</td>
     <tr>
-        <td>**Kessler, Natalie** (OD/CDC/HHS)</td>
-        <td>**Ware, Deanna** (OA/HRSA/HHS)</td>
+        <td>Kessler, Natalie (OD/CDC/HHS)</td>
+        <td>Ware, Deanna (OA/HRSA/HHS)</td>
     <tr>
-        <td>**Kirilusha, Anthony** (OD/NIH/HHS)</td>
+        <td>Kirilusha, Anthony (OD/NIH/HHS)</td>
     </tr>
 </table>
 
@@ -108,12 +108,12 @@ Officer (CDO) collaborated with data leaders to define shared values for navigat
 external collaborators may differ on data priorities or interpretations, we can all unite around values that drive progress and collaboration with a “sharing by default” 
 culture and “open by default” data ethos.
 
-Core values underpin the HHS Open Data community, underlying every aspect of this plan.\
-**1.    TRANSPARENCY:** Radical openness by default.\
-**2.    PURPOSE:** Data that serves the public good.\
+Core values underpin the HHS Open Data community, underlying every aspect of this plan.
+**1.    TRANSPARENCY:** Radical openness by default.
+**2.    PURPOSE:** Data that serves the public good.
 **3.    RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.\
-**4.    EXCELLENCE:** Real-world evidence drives impact.\
-**5.    RESPECT:** People and patients as equal partners.\
+**4.    EXCELLENCE:** Real-world evidence drives impact.
+**5.    RESPECT:** People and patients as equal partners.
 **6.    INTEGRITY:** Find the truth. Tell the truth.
 
 Thank you to everyone who has contributed to the HHS Open Data ecosystem—a community of solvers, collaboratively co-creating a more transparent, accountable, and responsive HHS. Today, we have incredible opportunity to responsibly share data, eliminate silos, modernize government, and drive progress through partnerships and emerging technologies like Artificial Intelligence (AI). All are welcome—join us! People first, data always!
