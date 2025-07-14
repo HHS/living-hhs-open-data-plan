@@ -38,6 +38,7 @@ jobs:
         run: |
           cd HHS-Open-Data-Plan
           pandoc *.md -o ../index.md
+          cd ..
             
       - name: Prepare site directory
         run: |
