@@ -56,56 +56,56 @@ and transparency on data use.
 The health data utility model can also work to empower patients to take control of their own data, share it selectively with their clinical care team, and if willing, to opt 
 in to specific research studies.  
 
-*	__Standards:__ HHS supports divisions to develop specific RWD standards, for example to meet a regulatory requirement. RWD should meet the three accepted metadata
+*   __Standards:__ HHS supports divisions to develop specific RWD standards, for example to meet a regulatory requirement. RWD should meet the three accepted metadata
   standards currently handled by Data.gov. Standards are also needed to facilitate the interoperability of data required to integrate disparate data sources, for example,
- 	it is likely that the emerging market pattern of HIEs becoming state based HPUs, will continue necessitating a federated approach to a national HPU resource.
+    it is likely that the emerging market pattern of HIEs becoming state based HPUs, will continue necessitating a federated approach to a national HPU resource.
 
-*	__Fit for purpose:__ Agencies must ensure they have clear policies for evaluating and communicating the fitness-for-purpose, or sometimes called “fit for use”, of RWD made
+*   __Fit for purpose:__ Agencies must ensure they have clear policies for evaluating and communicating the fitness-for-purpose, or sometimes called “fit for use”, of RWD made
   available to the public. Agencies should supply adequate documentation for each released RWD to help users assess whether the data is suitable for their intended use.
- 	Practices may include creating a standard template or framework that offers users the necessary context and details and creation of mechanisms for transparent use of data
- 	and patient consent perhaps using an immutable ledger such as Blockchain.
+    Practices may include creating a standard template or framework that offers users the necessary context and details and creation of mechanisms for transparent use of data
+    and patient consent perhaps using an immutable ledger such as Blockchain.
 
-*	__Terms of Use:__ RWD in the HHS ecosystem is open by default and should align with the privacy policy, data policy, and accessibility terms at Data.gov. When acquiring
+*   __Terms of Use:__ RWD in the HHS ecosystem is open by default and should align with the privacy policy, data policy, and accessibility terms at Data.gov. When acquiring
   data, agencies should reduce the use of bespoke and custom terms in data use agreements, which would restrict ability to release data as Open Data. Agencies should
- 	consider multiple approaches to acquisitions and collection of data, including incorporating data agreements in the contracting or grant terms, and not in separate
- 	agreements. This can multiply the impact of federal funding, by ensuring that federal funding results in data available as a common good.
+    consider multiple approaches to acquisitions and collection of data, including incorporating data agreements in the contracting or grant terms, and not in separate
+    agreements. This can multiply the impact of federal funding, by ensuring that federal funding results in data available as a common good.
 
 ### Completed RWD Projects Advancing HHS Open Data
 
-*	FDA has a long history of using RWD and RWE to monitor and evaluate the post-market safety of authorized medical products. Advances in the availability and analysis of
+*   FDA has a long history of using RWD and RWE to monitor and evaluate the post-market safety of authorized medical products. Advances in the availability and analysis of
   RWD have increased the potential for generating robust RWE to support regulatory decisions. 
 
-*	Completed FDA initiatives recently focused on advancing the use of RWD and RWE in regulatory decision-making and on informing healthcare policy. FDA finalized guidance
+*   Completed FDA initiatives recently focused on advancing the use of RWD and RWE in regulatory decision-making and on informing healthcare policy. FDA finalized guidance
   documents on use of RWE (including electronic health records (EHRs), medical claims data and registries) to support regulatory decisions for biologics, devices, and drugs.
- 	Recent FDA initiatives also cover study design considerations, and procedural and regulatory requirements.
+    Recent FDA initiatives also cover study design considerations, and procedural and regulatory requirements.
 
-*	CMS released an updated guidance document in 2024 that describes coverage with evidence development (CED).
+*   CMS released an updated guidance document in 2024 that describes coverage with evidence development (CED).
 
-*	CDC Data Channels exemplify open data principles by integrating diverse data sources into user-friendly visualizations and plain language interpretations. These channels
+*   CDC Data Channels exemplify open data principles by integrating diverse data sources into user-friendly visualizations and plain language interpretations. These channels
   empower the public with clear insights into issues related to infectious diseases, like [respiratory illnesses](https://www.cdc.gov/respiratory-viruses/data/index.html),
- 	as well as other important health topics, such as [mental health](https://www.cdc.gov/mental-health/about-data/index.html).
+    as well as other important health topics, such as [mental health](https://www.cdc.gov/mental-health/about-data/index.html).
 
 * CDC’s Office of Public Health Data, Surveillance and Technology has a dedicated team of data journalists, designers, and data experts that collaborate with CDC programs
   and emergency responses to design these channels, ensuring creation of audience-specific material and timely updates. Underlying data sources are made available at
   [data.cdc.gov](https://data.cdc.gov/), enhancing transparency and enabling data reuse. 
 
-*	CDC makes multiple other online data tools available to users. This includes [CDC WONDER](https://wonder.cdc.gov/) where users can create custom queries of vital records
+*   CDC makes multiple other online data tools available to users. This includes [CDC WONDER](https://wonder.cdc.gov/) where users can create custom queries of vital records
   and other key public health data, providing them with up-to-date detailed information on health outcomes such as causes of death. By tailoring content and access points
- 	for various audiences, CDC enhances communication on urgent public health threats and accessibility to data to foster engagement and trust with the public.
+    for various audiences, CDC enhances communication on urgent public health threats and accessibility to data to foster engagement and trust with the public.
 
 ### Ongoing RWD Initiatives Advancing HHS Open Data
 
-*	The Advanced Research Projects Agency for Health (ARPA-H) is conducting market research for potential procurements for real world health care data and related services.
+*   The Advanced Research Projects Agency for Health (ARPA-H) is conducting market research for potential procurements for real world health care data and related services.
 
-*	With participation from multiple HHS divisions, the National Academy of Medicine has ongoing studies and convenings relating to the Learning Health System and Public
+*   With participation from multiple HHS divisions, the National Academy of Medicine has ongoing studies and convenings relating to the Learning Health System and Public
   Utility model and plan to issues reports and recommendations in the next year.
 
-*	The NIH is planning for the development of a RWD research platform to support research generally (e.g., National Clinical Cohort Collaborative [N3C]) with initial focus
+*   The NIH is planning for the development of a RWD research platform to support research generally (e.g., National Clinical Cohort Collaborative [N3C]) with initial focus
   on the causes of Autism Spectrum Disorder (ASD). N3C infrastructure will also benefit other data-driven priorities like understanding nutrition for health, chronic
- 	diseases, environmental toxin exposures, and the benefits of healthy lifestyles.
+    diseases, environmental toxin exposures, and the benefits of healthy lifestyles.
 
-*	NIH/NCATS Open Data Portal was created to share and visualize data in real time to accelerate discover and guide the exploration of new therapeutic hypotheses. Open Data
+*   NIH/NCATS Open Data Portal was created to share and visualize data in real time to accelerate discover and guide the exploration of new therapeutic hypotheses. Open Data
   Portal is built to quickly pivot and share data for emerging public health needs and is expanding to include data for other diseases.
 
-*	FDA is committed to realizing the full potential of fit-for-purpose RWD to generate RWE that will advance the development of medical products and strengthen regulatory
+*   FDA is committed to realizing the full potential of fit-for-purpose RWD to generate RWE that will advance the development of medical products and strengthen regulatory
   oversight of medical products across their lifecycle.
