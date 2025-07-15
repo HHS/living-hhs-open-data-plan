@@ -1,4 +1,4 @@
-## Appendix B - Open Science Disclosure Risk Management (2019 NSTC SOS)
+## Appendix B: Open Science Disclosure Risk Management (2019 NSTC SOS)
 
 This document was developed by the SOS working group on research protections in open science as a product of the “Workshop on Open Science Disclosure Risk Management” convened 
 on July 22, 2019, at the Natcher Conference Center at the National Institutes of Health. The report highlights considerations and practices used to determine when data should 
