@@ -50,21 +50,21 @@ Open Data collection practices are on-going with continuous improvements (marked
   open, public suggestions for continuous improvements. Please let HHS know of other completed projects with public benefit that are missing and should be featured in the
  	Living HHS Open Data Plan. 
 
-[^7]: https://healthdata.gov/ (on-going effort with the HHS Office of the Chief Data Officer [OCDO]).
-[^8]: https://open.fda.gov/ (on-going effort with FDA).
+[^7]: <https://healthdata.gov/> (on-going effort with the HHS Office of the Chief Data Officer [OCDO]).
+[^8]: <https://open.fda.gov/> (on-going effort with FDA).
 [^9]: 2019 NSTC SOS Data Sharing Workshop hosted by NIH (on-going effort with the HHS OCDO).
-[^10]: https://www.gsa.gov/system/files/NAP4-MH.pdf (on-going effort through the HHS LymeX partnership).
-[^11]: https://www.usaspending.gov/ 
-[^12]: https://www.grants.gov/learn-grants/grant-policies/data-act-2014.html
-[^13]: https://www.challenge.gov/fy23-year-in-review/ (on-going effort with GSA, HHS, and federal agencies).
-[^14]: https://www.science.gov/ (on-going effort with HHS and NIH).
-[^15]: https://pubmed.ncbi.nlm.nih.gov/ (on-going effort with NIH National Library of Medicine).
-[^16]: https://www.nih.gov/about-nih/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy 
+[^10]: <https://www.gsa.gov/system/files/NAP4-MH.pdf> (on-going effort through the HHS LymeX partnership).
+[^11]: <https://www.usaspending.gov/> 
+[^12]: <https://www.grants.gov/learn-grants/grant-policies/data-act-2014.html>
+[^13]: <https://www.challenge.gov/fy23-year-in-review/> (on-going effort with GSA, HHS, and federal agencies).
+[^14]: <https://www.science.gov/> (on-going effort with HHS and NIH).
+[^15]: <https://pubmed.ncbi.nlm.nih.gov/> (on-going effort with NIH National Library of Medicine).
+[^16]: <https://www.nih.gov/about-nih/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy> 
 (on-going effort with HHS and NIH).
 [^17]: [NSTC_SOS_Workshop_Disclosure Risk Management_Dec_2019.pdf](https://hhsgov.sharepoint.com/:b:/r/sites/HHSDataGovernanceBoardASA/Shared%20Documents/HHS%20Open%20Data%20Plan/Tab%20B%20-%20NSTC_SOS_Workshop_Disclosure%20Risk%20Management_Dec_2019.pdf?csf=1&web=1&e=zUXJWs)
-[^18]: https://academyhealth.org/events/2025-09/2025-health-datapalooza (on-going effort with the HHS OCDO).
-[^19]: https://tophealth.github.io/ (2019 – 2002 pilot sunset in 2020, and informed the U.S. Census Bureau’s TOPx Toolkit for TOP/TOPx Tech Sprints to transform government 
-data into digital tools for real-world impact).
+[^18]: <https://academyhealth.org/events/2025-09/2025-health-datapalooza> (on-going effort with the HHS OCDO).
+[^19]: <https://tophealth.github.io/> (2019 – 2002 pilot sunset in 2020, and informed the U.S. Census Bureau’s TOPx Toolkit for TOP/TOPx Tech Sprints to transform 
+government data into digital tools for real-world impact).
 
 ### HHS 2025 Initiatives and Next Steps
 
@@ -98,79 +98,25 @@ Building upon past achievements, the HHS CDO and data leaders across the Departm
 
 [^20]: [Stopping Waste, Fraud, and Abuse by Eliminating Information Silos – The White House](https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/)
 [^21]: [Fact Sheet: President Donald J. Trump Eliminates Information Silos to Stop Waste, Fraud, and Abuse](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-eliminates-information-silos-to-stop-waste-fraud-and-abuse-60f3/)
-[^22]: https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/ 
-[^23]: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-the-make-america-healthy-again-commission/ 
-[^24]: https://www.hhs.gov/hhs-big-wins-maha/  
+[^22]: <https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/> 
+[^23]: <https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-the-make-america-healthy-again-commission/> 
+[^24]: <https://www.hhs.gov/hhs-big-wins-maha/>  
 
 ### Action Plan and Timeline (2025–2028) 
 
 HHS has outlined a phased approach to achieve its open data objectives in Table 1 – HHS Open Data Action Plan below. 
 
-<p align="center"><em>Table 1 - HHS Open Data Action Plan</em></p>
-<table>
-  <tr>
-    <th><b>HHS Open Data Action Items</b></th>
-    <th><b>2025</b></th>
-    <th><b>2026</b></th>
-    <th><b>2027</b></th>
-    <th><b>2028</b></th>
-  </tr>
-  <tr>
-    <td>Data Collection Processes in Open Formats to Eliminate Information Silos</td>
-    <td>Priority in progress</td>
-    <td>Done with Open Metrics</td>
-    <td>Done with Open Metrics</td>
-    <td>Done with Open Metrics</td>
-  </tr>
-  <tr>
-    <td>Data Usage Information</td>
-    <td>July 2025 launch with Healthdata.gov/metrics</td>
-    <td>Continuous Improvements, Open Metrics</td>
-    <td>Continuous Improvements, Open Metrics</td>
-    <td>Continuous Improvements, Open Metrics</td>
-  </tr>
-  <tr>
-    <td>Prioritizing Public Data Asset Review</td>
-    <td>July 2025 launch</td>
-    <td>Top-10 HHS-Wide, Critical Assets IDed & Published</td>
-    <td>Next-10 HHS-Wide, Critical Assets IDed & Published</td>
-    <td>Next-10 HHS-Wide, Critical Assets IDed & Published</td>
-  </tr>
-  <tr>
-    <td>Improving Processes for Meeting Open Data Goals</td>
-    <td>Establish processes for acquiring, updating, repurposing, and improving. In process, TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Intra-HHS Data Sharing — Be the Change</td>
-    <td>HHS Report for EO 14243 delivered April with update expected July</td>
-    <td>Simplified, unified Data Policy adopted across HHS</td>
-    <td>Done. Visible with Open Metrics</td>
-    <td>Done. Visible with Open Metrics</td>
-  </tr>
-  <tr>
-    <td>Real-World Data for Impact[^25]</td>
-    <td>Priority</td>
-    <td>Priority</td>
-    <td>Continuous Improvements</td>
-    <td>Continuous Improvements</td>
-  </tr>
-  <tr>
-    <td>Public/Private Partnership with Transparency to Accelerate Impact</td>
-    <td>At least 1 Partnership Launched</td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Public Engagement with, by, and for “We the People”</td>
-    <td>In progress</td>
-    <td>Continuous Improvements</td>
-    <td>Done. Visible with Open Metrics</td>
-    <td>Done. Visible with Open Metrics</td>
-  </tr>
-</table>
+*Table 1 - HHS Open Data Action Plan*
 
-[^25]: https://www.hhs.gov/press-room/nih-cms-partner-to-research-root-causes-of-autism.html 
+| **HHS Open Data Action Items**                                      | **2025**                                                   | **2026**                                                   | **2027**                                                   | **2028**                                                   |
+|---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Data Collection Processes in Open Formats to Eliminate Information Silos | Priority in progress                                       | Done with Open Metrics                                    | Done with Open Metrics                                    | Done with Open Metrics                                    |
+| Data Usage Information                                              | July 2025 launch with HealthData.gov/metrics              | Continuous Improvements, Open Metrics                     | Continuous Improvements, Open Metrics                     | Continuous Improvements, Open Metrics                     |
+| Prioritizing Public Data Asset Review                               | July 2025 launch                                          | Top-10 HHS-Wide, Critical Assets IDed & Published         | Next-10 HHS-Wide, Critical Assets IDed & Published        | Next-10 HHS-Wide, Critical Assets IDed & Published        |
+| Improving Processes for Meeting Open Data Goals                     | Establish processes for acquiring, updating, repurposing, and improving. In process, TBD | TBD                                                       | TBD                                                       | TBD                                                       |
+| Intra-HHS Data Sharing — Be the Change                              | HHS Report for EO 14243 delivered April with update expected July | Simplified, unified Data Policy adopted across HHS         | Done. Visible with Open Metrics                           | Done. Visible with Open Metrics                           |
+| Real-World Data for Impact[^25]                                     | Priority                                                  | Priority                                                  | Continuous Improvements                                   | Continuous Improvements                                   |
+| Public/Private Partnership with Transparency to Accelerate Impact   | At least 1 Partnership Launched                           | TBD                                                       | TBD                                                       | TBD                                                       |
+| Public Engagement with, by, and for “We the People”                | In progress                                               | Continuous Improvements                                   | Done. Visible with Open Metrics                           | Done. Visible with Open Metrics                           |
+
+[^25]: <https://www.hhs.gov/press-room/nih-cms-partner-to-research-root-causes-of-autism.html> 
