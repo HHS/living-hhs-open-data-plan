@@ -36,3 +36,5 @@ that showcase data usage information. HHS features select data usage information
 Data usage information must guide the HHS Open Data strategy, illuminating the path to maximum efficiency, economic growth, scientific discovery, and public impact. By 
 tracking and analyzing how HHS data is accessed and utilized, we transform raw statistics into actionable insights. See Appendix C – HHS Open Data Action Items with 
 Timeline, for the Living HHS Open Data action plan with 2025 – 2028 timeline.
+
+[Back to Table of Contents](#table-of-contents)
