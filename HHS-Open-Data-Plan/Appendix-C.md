@@ -1,4 +1,4 @@
-## Appendix C - HHS Open Data Action Items with Timeline
+## Appendix C: HHS Open Data Action Items with Timeline
 
 
 | **HHS Open Data Action Items**                                      | **2025**                                                   | **2026**                                                   | **2027**                                                   | **2028**                                                   |
