@@ -1,4 +1,4 @@
-## Intra-HHS Data Sharing - Be the Change
+## Intra-HHS Data Sharing: Be the Change
 
 HHS data-driven delivery relies on its ability to securely and ethically share information across all its HHS Operating Divisions and Staff Divisions for the collaborative 
 solving of pressing public health needs. To this end, HHS views its data is an enterprise resource, and not a series of collections scattered across government silos.  
