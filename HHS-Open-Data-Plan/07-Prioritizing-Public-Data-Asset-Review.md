@@ -21,7 +21,7 @@ Criteria for prioritizing datasets may include:
    visible to the public in the HHS FOIA Reading Room[^32]. This FOIA demand signal demonstrates high public interest or usage, and the HHS CDO evaluating how to use FOIA
    requests to help prioritize HHS Open Data workflows and department-wide processes.
 
-[^32]: https://www.hhs.gov/foia/electronic-reading-room/
+[^32]: <https://www.hhs.gov/foia/electronic-reading-room/>
 
 We believe these focused criteria will ensure our data resources provide maximum value to our partners in the private sector, public institutions, and non-profit 
 organizations. By prioritizing these high-impact datasets, we aim to facilitate groundbreaking research, inform critical policy decisions, and drive innovations that can 
