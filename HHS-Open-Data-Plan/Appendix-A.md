@@ -104,3 +104,5 @@ health technologies) that can inform on health status.
 **Usefulness** describes data’s applicability and relevance to problem-solving and decision-making.  
 
 **Version** (version control) is a system that tracks and manages changes to a document like the Living HHS Open Data Plan over time.
+
+[Back to Table of Contents](#table-of-contents)
