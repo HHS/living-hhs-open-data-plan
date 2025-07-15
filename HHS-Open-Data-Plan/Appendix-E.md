@@ -13,3 +13,5 @@ access and management of their data, thus ensuring that tribal data is owned and
 
 [^42]: Carroll, S, et al. 2020. The CARE Principles for Indigenous Data Governance. Data Science Journal, 19: XX, pp. 1–12. DOI: <https://doi.org/10.5334/dsj-2020-042>
 [^43]: Data for Indigenous Implementations Interventions and Innovation (D4I) is an NIH-funded award to the Native BioData Consortium
+
+[Back to Table of Contents](#table-of-contents)
