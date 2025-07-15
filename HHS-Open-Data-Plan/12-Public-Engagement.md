@@ -45,3 +45,5 @@ public across all sectors. Cross-sector lessons learned and insights will improv
 following the data wherever the data lead.  
 
 Please send feedback and suggestions to [cdo@hhs.gov](mailto:cdo@hhs.gov) or the Living HHS Open Data Plan on [GitHub](https://github.com/HHS/hhs-open-data-plan).
+
+[Back to Table of Contents](#table-of-contents)
