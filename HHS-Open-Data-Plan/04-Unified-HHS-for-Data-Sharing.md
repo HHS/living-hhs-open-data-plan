@@ -37,3 +37,5 @@ across its multi-agency data assets. Contributors to this Living Plan included H
 14. __Substance Abuse and Mental Health Services Administration__ (SAMHSA)
 
 The Living Plan will be updated in alignment with new office structures, as new information becomes known about HHS reorganizations.
+
+[Back to Table of Contents](#table-of-contents)
