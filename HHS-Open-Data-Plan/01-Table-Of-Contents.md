@@ -10,13 +10,13 @@
 &ensp;&ensp;HHS 2025 Initiatives and Next Steps  
 &ensp;&ensp;Action Plan and Timeline (2025–2028)  
 [Data Usage Information](#data-usage-information)  
-[Prioritizing Public Data Asset Review](#piroritizing-public-data-asset-review)  
+[Prioritizing Public Data Asset Review](#prioritizing-public-data-asset-review)  
 [Improving Processes for Meeting Open Data Goals](#improving-processes-for-meeting-open-data-goals)  
 [Intra-HHS Data Sharing — Be the Change](#intra-hhs-data-sharing-be-the-change)  
 [Real-World Data for Impact](#real-world-data-for-impact)  
 &ensp;&ensp;Completed RWD Projects Advancing HHS Open Data  
 &ensp;&ensp;Ongoing RWD Initiatives Advancing HHS Open Data  
-[Public/Private Partnership with Transparency to Accelerate Impact](#public-private-partnership-with-transparency-to-accelerate-impact)  
+[Public/Private Partnership with Transparency to Accelerate Impact](#publicprivate-partnership-with-transparency-to-accelerate-impact)  
 [Public Engagement with, by, and for We the People](#public-engagement-with-by-and-for-we-the-people)  
 [Appendix A - Acronyms, Definitions, Keywords, and Concepts](#appendix-a-acronyms-definitions-keywords-and-concepts)  
 &ensp;&ensp;Acronyms  
