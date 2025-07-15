@@ -1,4 +1,4 @@
-## Appendix D - HHS Partnerships with Transparency
+## Appendix D: HHS Partnerships with Transparency
 
 In the spirit of radical transparency and co-creating the future with the public, HHS welcomes general feedback on this preliminary vision to guide future public-private 
 partnerships.  
