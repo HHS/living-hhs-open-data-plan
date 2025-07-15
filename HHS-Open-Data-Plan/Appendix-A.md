@@ -1,4 +1,4 @@
-## Appendix A - Acronyms, Definitions, Keywords, and Concepts
+## Appendix A: Acronyms, Definitions, Keywords, and Concepts
 
 ### Acronyms
 
