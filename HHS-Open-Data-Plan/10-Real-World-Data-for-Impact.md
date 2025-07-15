@@ -109,3 +109,5 @@ opt in to specific research studies.
 
 - FDA is committed to realizing the full potential of fit-for-purpose RWD to generate RWE that will advance the development of medical products and strengthen regulatory
   oversight of medical products across their lifecycle.
+
+[Back to Table of Contents](#table-of-contents)
