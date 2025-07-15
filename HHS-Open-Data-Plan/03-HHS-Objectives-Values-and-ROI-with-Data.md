@@ -34,13 +34,13 @@ an online form with open-ended space for public response. With this agile approa
 the ultimate goal: fostering collaboration and unlocking the transformative power of data for operational efficiency, scientific discovery, innovation, and public impact.  
 
 The value of HHS Open Data is far reaching:
-- __Eliminate silos to improve operational efficiencies:__ Streamline data-sharing processes across divisions to reduce redundancies and enhance program effectiveness.
--   __Drive new business models:__ Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.
--   __Fuel American innovation:__ Provide researchers, entrepreneurs, and policymakers with access to high-value datasets that catalyze advancements in science, technology,
-and public health.
--   __Accelerate scientific breakthroughs:__ Facilitate the use of real-world data to inform evidence-based research and policy decisions.
--   __Demystify government with transparency:__ Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.
--   __Maximize taxpayers’ ROI on HHS data investments:__ Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.
+- **Eliminate silos to improve operational efficiencies:** Streamline data-sharing processes across divisions to reduce redundancies and enhance program effectiveness.  
+- **Drive new business models:** Enable public-private partnerships that leverage HHS data to create innovative solutions for healthcare and human services.  
+- **Fuel American innovation:** Provide researchers, entrepreneurs, and policymakers with access to high-value datasets that catalyze advancements in science, technology,
+and public health.  
+- **Accelerate scientific breakthroughs:** Facilitate the use of real-world data to inform evidence-based research and policy decisions.  
+- **Demystify government with transparency:** Embrace open methods, work in the open, and pull back the curtain on who, what, where, when, why, and how HHS operates.  
+- **Maximize taxpayers’ ROI on HHS data investments:** Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.  
 
 ### Everyday Leadership: Driving Open Data Transformation  
 
@@ -59,15 +59,15 @@ the American public’s needs, requests, and suggestions for improving the Livin
 Across all HHS bureaucracy levels in day-to-day work, employees are encouraged to enable a “yes” by default data-sharing culture with transparency to eliminate information 
 silos, while actively answering. All HHS staff can aid this transformation by asking themselves the following three questions.  
 
-__1. How can I responsibly publish more “open by default” data on [HealthData.gov](https://healthdata.gov/)?__  
+**1. How can I responsibly publish more “open by default” data on [HealthData.gov](https://healthdata.gov/)?**  
 Remember, the public has a legal right to federal data when expected societal benefits/rewards outweigh expected costs/risks (e.g., balancing accessibility and security 
 while ensuring quality, ethical use, and protection of priority data assets).  
 
-__2. How can I more transparently engage, listen, and respond to citizens and public feedback?__  
+**2. How can I more transparently engage, listen, and respond to citizens and public feedback?**  
 Remember, the Evidence Act mandates “open by default” data and HHS policy advances open science (free public access without paywalls), and successful delivery involves 
 two-way public engagements with responsiveness to citizens.  
 
-__3. How do I ensure, measure, and track real-world impact from my HHS data work?__  
+**3. How do I ensure, measure, and track real-world impact from my HHS data work?**  
 Responsible data sharing with a “yes” enabling culture is a good step and necessary—yet insufficient—to transform raw data into understanding and insights to guide decisions 
 and actions. All data projects should explicitly define measurable metrics of success that matter to the American people. As civil servants working on HHS data projects, we 
 must hold ourselves accountable to these measurable metrics of success that will vary by project, so that HHS data efforts will directly improve service delivery with 
@@ -79,3 +79,5 @@ stories to connect our HHS data with collective purpose.
 
 By addressing the above questions and embracing a culture of transparency, collaboration, and accountability, HHS commits to unlocking the full potential of its data to 
 enhance the health and well-being of all Americans. Join us!  
+
+[Back to Table of Contents](#table-of-contents)
