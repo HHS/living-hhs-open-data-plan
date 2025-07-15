@@ -13,7 +13,7 @@ the HHS CDO will update this section of the Living HHS Open Data Plan following 
 | **Division** | **Do Data Improvement Processes Exist (Y/N?)** | **Timeliness** | **Completeness** | **Consistency** | **Accuracy** | **Usefulness** | **Availability** |
 |--------------|-----------------------------------------------|----------------|------------------|-----------------|--------------|----------------|------------------|
 | AHA          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| OS-          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| OS           | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
 | ARPA-H       | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
 | ACFC         | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
 | CDC          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
