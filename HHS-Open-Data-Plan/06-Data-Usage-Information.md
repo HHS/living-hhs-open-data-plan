@@ -23,12 +23,12 @@ __Collaborations and Partnerships for Enhanced Insights:__ To extract additional
 collaborations through the CDO Council, other federal agencies, and public-private partnerships. Such collaborations enable a more sophisticated analysis of data usage 
 trends, many of which are available on Data.gov[^30] and the interagency Digital Analytics Program (DAP)[^31].
 
-[^26]: https://digital.gov/guides/dap
+[^26]: <https://digital.gov/guides/dap>
 [^27]: Data Quality Guidelines ensure transparency around the quality of official statistics ([FCSM-20-04 A Framework for Data Quality](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fcsm.gov%2Fassets%2Ffiles%2Fdocs%2FFCSM.20.04_A_Framework_for_Data_Quality.pdf&data=05%7C02%7Cclaire.german%40hhs.gov%7Cdba1e8d1bf0a4e5fbfd608ddb8c1977a%7Cd58addea50534a808499ba4d944910df%7C0%7C0%7C638869863799804955%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=soqmT4Yq%2BzO6CwKh%2BDGGUhoDuDyLg5xtnP29FC2Da%2Fw%3D&reserved=0))
-[^28]: https://aspe.hhs.gov/reports
-[^29]: https://aspe.hhs.gov/reports/department-health-human-services-evaluation-policy
-[^30]: https://data.gov/ 
-[^31]: https://digital.gov/guides/dap 
+[^28]: <https://aspe.hhs.gov/reports>
+[^29]: <https://aspe.hhs.gov/reports/department-health-human-services-evaluation-policy>
+[^30]: <https://data.gov/> 
+[^31]: <https://digital.gov/guides/dap> 
 
 HHS communicates the usage and value of its data at public-facing engagements and events including technology sprints, innovation sprints, demo days, and other opportunities 
 that showcase data usage information. HHS features select data usage information through the HealthData.gov/stories , also known as the HealthData.gov blog.  
