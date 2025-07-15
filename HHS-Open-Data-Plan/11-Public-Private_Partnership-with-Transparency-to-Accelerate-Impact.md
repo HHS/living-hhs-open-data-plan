@@ -50,3 +50,5 @@ citizens, patients, and stakeholders as equal partners. This collaborative appro
 milestones, public forums for strategy discussions, and mechanisms for direct citizen input into decision-making. By embracing this level of openness and implementing 
 safeguards against regulatory capture, public-private partnerships not only enhance their effectiveness but also set new benchmarks for accountability. This ensures that the 
 interests of all stakeholders—especially the public—remain at the forefront of these initiatives.
+
+[Back to Table of Contents](#table-of-contents)
