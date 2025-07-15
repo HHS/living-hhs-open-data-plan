@@ -33,3 +33,4 @@ innovative solutions for complex healthcare challenges, enhancing efficiency and
   - Implement mechanisms to address ethical considerations, maintain regulatory compliance, protect data privacy and security, while also establishing metrics to evaluate
     the council's effectiveness and impact on HHS data practices and decision-making processes.
  
+[Back to Table of Contents](#table-of-contents)
