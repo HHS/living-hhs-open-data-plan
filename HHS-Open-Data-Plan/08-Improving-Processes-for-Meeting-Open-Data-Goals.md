@@ -8,109 +8,19 @@ the HHS CDO will update this section of the Living HHS Open Data Plan following 
 > HHS agencies release data into “electronic reading rooms” once a low threshold of public inquiries is reached through FOIA requests –
 [such as this site at HRSA](https://www.hrsa.gov/foia/electronic-reading).  
 
-<p align="center"><em>Table 2 - HHS Data Improvement Processes - Current State</em></p>
+*Table 2 - HHS Data Improvement Processes - Current State*
 
-<table>
-  <tr>
-    <th>Division</th>
-    <th>Do Data Improvement Processes Exist (Y/N?)</th>
-    <th>Timeliness</th>
-    <th>Completeness</th>
-    <th>Consistency</th>
-    <th>Accuracy</th>
-    <th>Usefulness</th>
-    <th>Availability</th>
-  </tr>
-  <tr>
-    <td>AHA</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>OS</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>ARPA-H</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>ACF</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>CDC</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>CMS</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>FDA</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>IHS</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-  <tr>
-    <td>NIH</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-    <td>In Review</td>
-  </tr>
-</table>  
+| **Division** | **Do Data Improvement Processes Exist (Y/N?)** | **Timeliness** | **Completeness** | **Consistency** | **Accuracy** | **Usefulness** | **Availability** |
+|--------------|-----------------------------------------------|----------------|------------------|-----------------|--------------|----------------|------------------|
+| AHA          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| OS-          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| ARPA-H       | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| ACFC         | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| CDC          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| CMS          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| FDA          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| IHS          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+| NIH          | In Review                                     | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+
 
 See Appendix C - HHS Open Data Action Items with Timeline, for the Living HHS Open Data action plan with 2025 – 2028 timeline.  
