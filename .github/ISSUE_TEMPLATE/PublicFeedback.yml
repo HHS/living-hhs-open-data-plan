@@ -1,0 +1,38 @@
+name: Tell Us About Your Experience with the Living HHS Open Data Plan
+description: This form is a voluntary request for public inputs and/or comments on the Living HHS Open Data Plan, published by the U.S. Department of Health and 
+Human Services (HHS) version 1.0 in July 2025. 
+title: "[Feedback]: Living HHS Open Data Plan"
+labels: [Feedback]
+assignees: 
+ - alecblase
+body:
+- type: markdown
+  attributes:
+   value: |
+    Thank you for your interest in the Living HHS Open Data Plan! This is a free-response sheet for sharing your feedback, ideas, or suggestions. Submissions will be 
+    publicly accessible online, so please follow HHS Code of Conduct. You may answer the prompts below and/or comment on specific sections from the table of contents below.
+- type: textarea
+  attributes:
+   label: |
+    Please let HHS know of other emerging trends, technologies, and priorities with public benefit that are missing and should be featured in the Living HHS Open Data Plan.
+   render: shell
+- type: textarea
+  attributes:
+   label: |
+    List any improvements to processes for meeting Open Data goals, intra-HHS data sharing, and Real-World data exchanges to best serve you, U.S. health, and human services.
+   render: shell
+- type: textarea
+  attributes:
+   label: |
+    If missing from version 1.0, please let HHS know what additional partnerships, collaborations, or public engagements fueled by HHS Open Data should be featured or referenced in future iterations of the Living HHS Open Data Plan.
+   render: shell
+- type: textarea
+  attributes:
+   label: |
+    New data governance will be required, so please share your ideas or favorite examples on how HHS should pilot new data governance models with patients, industry, and all sectors, or otherwise improve health data governance.
+   render: shell
+- type: textarea
+  attributes:
+   label: |
+    If any discussion topics or other issues (e.g. data assets, data collection processes, data governance, data usage, completed or on-going project, etc.) are missing and should be featured in the Living HHS Open Data Plan, list them here.
+   render: shell
