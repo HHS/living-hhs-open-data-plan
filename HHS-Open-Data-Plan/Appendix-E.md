@@ -1,4 +1,4 @@
-## Appendix E - Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance
+## Appendix E: Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance
 
 HHS expects to explore novel models of data governance, including radical, collective, self-governance models with sovereign nations, patient communities, and external sources.  
 
