@@ -1,7 +1,7 @@
 name: Tell Us About Your Experience with the Living HHS Open Data Plan
 description: This form is a voluntary request for public inputs and/or comments on the Living HHS Open Data Plan, published by the U.S. Department of Health and Human Services (HHS) version 1.0 in July 2025. 
 title: "[Feedback]: Living HHS Open Data Plan"
-labels: ["Feedback"]
+labels: ["feedback"]
 assignees: 
  - alecblase
 body:
