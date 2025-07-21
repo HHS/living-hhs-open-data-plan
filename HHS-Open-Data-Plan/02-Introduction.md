@@ -48,7 +48,7 @@ review and possible change to maintain alignment with the President’s Manageme
 ## Message from the HHS Chief Data Officer—People First, Data Always!
 
 Fifteen years ago, HHS led the federal Open Data movement and launched HealthData.gov, the home of HHS Open Data. With the publication of this Open Data Plan and 
-a refreshed HealthData.gov launched in July 2025, HHS has refocused its efforts on open data and delivered on three milestones.
+a refreshed HealthData.gov launched in July 2025, HHS has refocused its efforts on open data and delivered on three milestones.  
 1. HHS Open Data Plan (this document)
 2. HHS Metadata Standard (version 1.0)
 3. HHS Data Inventory (version 1.0 metadata catalog of public and non-public data assets) 
@@ -56,7 +56,7 @@ a refreshed HealthData.gov launched in July 2025, HHS has refocused its efforts 
 American taxpayers fund HHS data and information, making it essential that these resources are democratized—easily discoverable, machine-readable, and freely accessible 
 to all. All Americans have a right to the information that underpins the Department’s operations, federally funded research, and broader “open” initiatives including 
 partnerships, citizen science, crowdsourcing, prizes, and innovation challenges fueled by HHS Open Data. With the maturation of multiple open communities, HHS is poised 
-in 2025 to link synergistic ecosystems for increased impact.
+in 2025 to link synergistic ecosystems for increased impact.  
 * Open Data: [Data.gov](https://data.gov/) and [HealthData.gov](https://healthdata.gov/)  
 * Open Government: [Open.USA.gov](https://www.gsa.gov/governmentwide-initiatives/us-open-government) 
 * Open Innovation: [Challenge.gov](https://challenge.gov/)
@@ -68,7 +68,7 @@ Officer (CDO) collaborated with data leaders to define shared values for navigat
 external collaborators may differ on data priorities or interpretations, we can all unite around values that drive progress and collaboration with a “sharing by default” 
 culture and “open by default” data ethos.
 
-Core values underpin the HHS Open Data community, underlying every aspect of this plan.
+Core values underpin the HHS Open Data community, underlying every aspect of this plan.  
 1. **TRANSPARENCY:** Radical openness by default.
 2. **PURPOSE:** Data that serves the public good.
 3. **RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.
