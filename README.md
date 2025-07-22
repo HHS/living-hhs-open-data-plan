@@ -23,7 +23,7 @@ Interested in submitting your feedback on the Living HHS Open Data Plan? Follow 
 
 ### Tell Us About Your Experience with the Living HHS Open Data Plan
 
-If you have feedback on the Living HHS Open Data Plan, please let us know by filing an [issue on our GitHub repository](https://github.com/HHS/living-hhs-open-data-plan/issues/new?template=PublicFeedback.yml).  
+If you have feedback on the Living HHS Open Data Plan, please let us know by filing an [issue on our GitHub repository](https://hhs.github.io/lodp-form/).  
 
 This is a free response sheet that will be open for public users to read online, so please adhere to the [HHS Code of Conduct](CODE_OF_CONDUCT.md).
 
