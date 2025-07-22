@@ -1,4 +1,4 @@
-## Appendix D: HHS Data Improvement Process – 2025 Status
+## Appendix D: HHS Data Improvement Process 2025 Status
 
 *Table 3 - HHS Data Improvement Processes - 2025 Status*  
 
