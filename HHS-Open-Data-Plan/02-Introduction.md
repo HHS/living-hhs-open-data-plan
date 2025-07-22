@@ -24,7 +24,7 @@ This work also advances HHS implementation of the Source code Harmonization And 
 
 **HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub:** <https://github.com/HHS/living-hhs-open-data-plan>  
 
-For inquiries and feedback you prefer not to make public on GitHub, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)  
+Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)  
 
 ---
 
