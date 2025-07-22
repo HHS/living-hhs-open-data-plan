@@ -1,6 +1,7 @@
 # Table of Contents
 
 [HHS Objectives, Values, and Return on Investment (ROI) with Data](#hhs-objectives-values-and-return-on-investment-roi-with-data)  
+&ensp;&ensp;Ensuring Responsible Use and Interpretation of Open Data
 &ensp;&ensp;Open Methods to Improve the Living HHS Open Data Plan  
 &ensp;&ensp;Everyday Leadership: Driving Open Data Transformation  
 &ensp;&ensp;Everyone Included: Valuing All Perspectives  
