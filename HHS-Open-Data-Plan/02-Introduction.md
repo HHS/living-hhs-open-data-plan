@@ -31,8 +31,8 @@ Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cd
 **ACKNOWLEDGEMENTS**  
 Over 30 individuals contributed as co-authors, editors, and contributors to this Living Open Data Plan, which the HHS Data Governance Board (DGB) approved and received concurrence from all HHS Divisions in July 2025. Special thanks to core co-authors and contributors:
 
-| **Contributors** | **Contributors** |
-|------------------|------------------|
+| **Contributors**                     | **Contributors**                      |
+|--------------------------------------|---------------------------------------|
 | **Allen, Jelena** (CBHSQ/SAMHSA/HHS) | **Kleinstreuer, Nicole** (OD/NIH/HHS) |
 | **Beach, Thomas** (ODAR/FDA/HHS) | **Layden, Jennifer** (OD/CDC/HHS) |
 | **Blase, Alec** (ASTP/OS/HHS) | **Mandel, Grace** (OD/CDC/HHS) |
