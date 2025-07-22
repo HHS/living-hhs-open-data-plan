@@ -5,30 +5,30 @@ labels: ["feedback"]
 assignees: 
  - alecblase
 body:
-- type: markdown
-  attributes:
-   label: |
-    Thank you for your interest in the Living HHS Open Data Plan! This is a free-response sheet for sharing your feedback, ideas, or suggestions. Submissions will be publicly accessible online, so please follow the HHS Code of Conduct. You may answer the prompts below and/or comment on specific sections from the table of contents below.
-- type: textarea
-  attributes:
-   label: |
-    Identify gaps or omissions in the Living HHS Open Data Plan, including emerging technologies, Open Data trends, issues, or priorities that should be addressed in future updates.
+  - type: markdown
+    attributes:
+      value: |
+       Thank you for your interest in the Living HHS Open Data Plan! This is a free-response sheet for sharing your feedback, ideas, or suggestions. Submissions will be publicly accessible online, so please follow the HHS Code of Conduct. You may answer the prompts below and/or comment on specific sections from the table of contents below.
+  - type: textarea
+    attributes:
+      value: |
+        Identify gaps or omissions in the Living HHS Open Data Plan, including emerging technologies, Open Data trends, issues, or priorities that should be addressed in future updates.
    description: "Open-ended request for comments or feedback"
-- type: textarea
-  attributes:
-   label: |
-    Recommend best practices for data collection, management, or usage in open formats to help HHS achieve its Open Data goals, including intra-HHS data sharing and Real-World Data (RWD) exchanges.
-   description: "Open-ended request for comments or feedback"
-   render: shell
-- type: textarea
-  attributes:
-   label: |
-    Propose ideas or examples for piloting innovative data governance models with patients, industry, academia, and other sectors to improve health data governance and transparency.
-   description: "Open-ended request for comments or feedback"
-   render: shell
-- type: textarea
-  attributes:
-   label: |
-    Highlight public-private partnerships, collaborations, or cross-sector initiatives powered by HHS Open Data that deliver measurable impact and deserve inclusion in future versions of the Living Plan.
-   description: "Open-ended request for comments or feedback"
-   render: shell
+  - type: textarea
+    attributes:
+      value: |
+        Recommend best practices for data collection, management, or usage in open formats to help HHS achieve its Open Data goals, including intra-HHS data sharing and Real-World Data (RWD) exchanges.
+      description: "Open-ended request for comments or feedback"
+      render: shell
+  - type: textarea
+    attributes:
+      value: |
+        Propose ideas or examples for piloting innovative data governance models with patients, industry, academia, and other sectors to improve health data governance and transparency.
+      description: "Open-ended request for comments or feedback"
+      render: shell
+  - type: textarea
+    attributes:
+      value: |
+        Highlight public-private partnerships, collaborations, or cross-sector initiatives powered by HHS Open Data that deliver measurable impact and deserve inclusion in future versions of the Living Plan.
+      description: "Open-ended request for comments or feedback"
+      render: shell
