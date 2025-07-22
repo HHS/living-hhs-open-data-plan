@@ -8,7 +8,7 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 
 ## Getting Started
 
-If you would like to comment and provide feedback on the Living Open Data Plan, please let us know by filing an **issue on our GitHub repository.**
+If you would like to comment and provide feedback on the Living Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-form/).**
 
 ### Contribution Guidelines
 
@@ -43,7 +43,7 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 
 ### Writing Issues
 
-If you would like to comment on the Living HHS Open Data Plan, please let us know by filing an **issue on our GitHub repository.**
+If you would like to comment on the Living HHS Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-form/).**
 
 ### Writing Pull Requests
 
@@ -83,4 +83,4 @@ Some important notes regarding the summary line:
 
 ## Reviewing Pull Requests
 
-Pull requests will be reviewed by the Living HHS Open Data Plan team
+Pull requests will be reviewed by the Living HHS Open Data Plan team.
