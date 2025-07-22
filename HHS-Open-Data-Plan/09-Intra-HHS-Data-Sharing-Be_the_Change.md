@@ -1,28 +1,16 @@
 ## Intra-HHS Data Sharing: Be the Change
 
-HHS data-driven delivery relies on its ability to securely and ethically share information across all its HHS Operating Divisions and Staff Divisions for the collaborative 
-solving of pressing public health needs. To this end, HHS views its data is an enterprise resource, and not a series of collections scattered across government silos.  
+HHS data-driven delivery relies on its ability to securely, legally, and ethically share information across all its HHS Operating Divisions and Staff Divisions for the collaborative solving of pressing public health needs. To this end, HHS views its data is an enterprise resource, and not a series of collections scattered across government silos.  
 
-The HHS CTO and Chief Information Officer (CIO) are leading information technology (IT) enterprise-wide integration and modernization, working closely with the CDO to create 
-one umbrella as a unified Department with shared, enterprise-wide capabilities to:  
+The HHS CTO and CIO are leading IT enterprise-wide integration and modernization, working closely with the CDO to create one umbrella as a unified Department with shared, enterprise-wide capabilities to:  
 
-- **Eliminate silos to improve operational efficiencies:** Publishing its data assets in a centralized, secure data catalog in Healthdata.gov. Ensuring the data is
-  machine-readable to the extent possible and Linking data through secure, cloud-based lake house interchanges 
-- **Accelerate scientific breakthroughs:** Unlocking the use of real-world data products and services to leads departments and agencies to develop new insights and enables
-  Departments and HHS to make more informed evidence-based decisions. By bringing together program leads with shared goals and develop appropriate, cross-cutting to
-    strategically advance the Department’s most pressing public health priorities and solve the most critical operational needs as a result it will stream data related
-    procurements. 
-- **Demystify government with transparency:** Strategically close interoperability gaps through cross-agency collaboration and establishment of common data terms and
-  definitions and single “sources of truth”. Promote data literacy across Department staff. 
-- **Drive new business models:** Enhances the Health Data marketplace features, by streamlining data procurements and third-party purchases. Eliminated need for conducting
-  data calls, data use agreements by sharing data products and services built by various departments to address HHS’s mission. Finding unified enterprise data management
-    solutions and avoid the unnecessary use of countless non-communicating data platforms and analytic tools 
-- **Fuel American innovation:** Catalyzes the advancement in the specialized data products and services with access to high-value datasets developed by various departments.
-  Such as optimize automation and ethical use of artificial intelligence tools to showcase specialized data services to eliminate redundant and duplicate activities around
-    data cleanup, validation and data transformation. 
-- **Maximize taxpayers’ ROI on HHS data investments:** Ensure that every dollar spent on data collection and management delivers measurable benefits to the American people.
-  HHS Divisions shall use opportunities to collaborate and coordinate their data-driven public health activities through bringing together agency data leaders in venues such
-    as the HHS Data Governance Board and HHS Data Council. Within these venues, agency data leaders will identify critical gaps and develop and implement plans to efficiently
-    and effectively resolve them – ultimately to ensure the proper stewardship of taxpayer dollars and optimal service to the public.  
+- **Eliminate silos to improve operational efficiencies**: Publishing its data assets in a centralized, secure data catalog in Healthdata.gov. Ensuring the data is machine-readable to the extent possible and Linking data through secure, cloud-based lake house interchanges. By sharing data products, code, and services built by various HHS Divisions to address HHS’s mission, the Department is minimizing the need for conducting data calls, data use agreements, and intra-HHS paperwork if not required by law. HHS is identifying unified enterprise data management solutions to avoid the unnecessary use of countless non-communicating data platforms and analytic tools.  
+- **Accelerate scientific breakthroughs**: Unlocking the use of RWD products and services lead HHS Divisions, partners, and external researchers to develop new insights, while empowering HHS Divisions to make more informed, evidence-based decisions. By bringing together program leads with shared goals and crosscutting approaches that directly involve both data stewards and users, HHS efforts are increasingly unified. Coordinated unification as a science agency will expedite U.S. research to solve pressing public health priorities, streamline data-related procurements, and optimize critical operational needs.  
+- **Demystify government with transparency**: Strategically closing interoperability gaps through cross-agency collaboration and establishment of common data terms and definitions and single “sources of truth”. Promote data literacy across Department staff.  
+- **Drive new business models**: By making thousands of datasets readily discoverable through the [HHS Data Inventory](https://healthdata.gov/HHS/HHS-Data-Inventory/kaw8-4tez)[^67] and [HealthData.gov](https://healthdata.gov/) resources, HHS Open Data is fostering entrepreneurial innovation and efficiency among government staff. This leads to new approaches and models in service delivery and data utilization, as a unified HHS. For example, HHS is streamlining data procurements and third-party purchases by enhancing the Health Data marketplace features.  
+- **Fuel American innovation**: Through programs like the ARPA-H Biomedical Data Fabric, HHS is developing specialized data products and services with access to high-value datasets developed by various HHS Divisions and external innovators. For example, the HHS Chief AI Officer, ARPA-H, ASTP/ONC, and OCDO are piloting, optimizing, and showcasing the automation and ethical use of AI tools to eliminate redundant and duplicate activities around data cleanup, validation, and data transformation.  
+- **Maximize taxpayers’ return ROI in HHS data investments**: HHS is ensuring that every dollar spent on data collection and management delivers measurable benefits to the American people. HHS Divisions shall use opportunities to collaborate and coordinate their data-driven public health activities through bringing together agency data leaders in venues such as the HHS DGB and HHS-led sprints, such as U.S. Census Bureau’s [The Opportunity Project (TOP) Tech Sprints](https://opportunity.census.gov/) fueled by HHS Open Data, and other Innovation Sprints, Demo Days, and [data-driven innovation methods](https://cdo.hhs.gov/s/innovation) that transform raw data into insights, digital tools, and real-world value. Within these venues, agency data leaders will identify critical gaps and develop and implement plans to efficiently and effectively resolve them—ensuring the stewardship of taxpayer dollars and optimal service to the public.
+
+[^67]: <https://HealthData.gov/HHS/HHS-Data-Inventory/kaw8-4tez>
 
 [Back to Table of Contents](#table-of-contents)
