@@ -32,23 +32,3 @@ body:
     Highlight public-private partnerships, collaborations, or cross-sector initiatives powered by HHS Open Data that deliver measurable impact and deserve inclusion in future versions of the Living Plan.
    description: "Open-ended request for comments or feedback"
    render: shell
-- type: dropdown
-  attributes:
-   label: "Select any of the Living HHS Open Data Plan modules to submit comments or feedback to."
-   options:
-     - "HHS Objectives, Values, and Return on Investment (ROI) with Data"
-     - "Unified HHS for Data Sharing",
-     - "Data Collection Processes for Open Formats",
-     - "Data Usage Information",
-     - "Prioritizing Public Data Asset Review",
-     - "Improving Processes for Meeting Open Data Goals",
-     - "Intra-HHS Data Sharing — Be the Change",
-     - "Real-World Data for Impact",
-     - "Public-Private Partnerships with Transparency to Accelerate Impact",
-     - "Public Engagement with, by, and for We the People",
-     - "Appendix A - Acronyms, Definitions, Keywords, and Concepts",
-     - "Appendix B - Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance",
-     - "Appendix C - HHS Partnerships with Transparency",
-     - "Appendix D - HHS Data Improvement Process - 2025 Status",
-     - "Other (General Comments)"
-   multiple: true 
