@@ -21,8 +21,6 @@
 [Appendix A: Acronyms, Definitions, Keywords, and Concepts](#appendix-a-acronyms-definitions-keywords-and-concepts)  
 &ensp;&ensp;Acronyms  
 &ensp;&ensp;Definitions, Keywords, and Concepts  
-[Appendix B: Open Science Disclosure Risk Management (2019 NSTC SOS)](#appendix-b-open-science-disclosure-risk-management-2019-nstc-sos)  
-[Appendix C: HHS Open Data Action Items with Timeline](#appendix-c-hhs-open-data-action-items-with-timeline)  
-[Appendix D: HHS Partnerships with Transparency](#appendix-d-hhs-partnerships-with-transparency)  
-[Appendix E: Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance](#appendix-e-novel-models-of-data-governance-inspired-by-tribal-data-governance-for-radical-collective-self-governance)  
-[Appendix F: HHS Data Improvement Process – 2025 Status](#appendix-f-hhs-data-improvement-process-2025-status)
+[Appendix B: Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance](#appendix-b-novel-models-of-data-governance-inspired-by-tribal-data-governance-for-radical-collective-self-governance)  
+[Appendix C: HHS Partnerships with Transparency](#appendix-c-hhs-partnerships-with-transparency)  
+[Appendix D: HHS Data Improvement Process – 2025 Status](#appendix-f-hhs-data-improvement-process-2025-status)
