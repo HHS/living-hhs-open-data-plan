@@ -31,33 +31,13 @@ Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cd
 **ACKNOWLEDGEMENTS**  
 Over 30 individuals contributed as co-authors, editors, and contributors to this Living Open Data Plan, which the HHS Data Governance Board (DGB) approved and received concurrence from all HHS Divisions in July 2025. Special thanks to core co-authors and contributors:
 
-| **Contributors**                         | **Contributors**                          |
-| ---------------------------------------- | ----------------------------------------- |
-| **Allen, Jelena** (CBHSQ/SAMHSA/HHS)     | **Kleinstreuer, Nicole** (OD/NIH/HHS)     |
-| **Beach, Thomas** (ODAR/FDA/HHS)         | **Layden, Jennifer** (OD/CDC/HHS)         |
-| **Blase, Alec** (ASTP/OS/HHS)            | **Mandel, Grace** (OD/CDC/HHS)            |
-| **Broussard, Cheryl** (OD/CDC/HHS)       | **Minor, Clark** (IOS/HHS)                |
-| **Callahan, Kenneth** (IOS/HHS)          | **Mohan, Chandra** (OMTO/SAMHSA/HHS)      |
-| **Caponiti, Anthony** (ASTP/OS/HHS)      | **Morris, Christopher** (KME/ACF/HHS)     |
-| **Carrazana, Dorn** (CDRH/FDA/HHS)       | **Ogilvie, Jessica** (OD/CDC/HHS)         |
-| **Cono, Joanne** (OD/CDC/HHS)            | **Pishko, Gregory** (ODAR/FDA/HHS)        |
-| **DeCausemaker, Remy** (DSAC/CMS/HHS)    | **Posnack, Steve** (ASTP/OS/HHS)          |
-| **Dillion, Christopher** (NCATS/NIH/HHS) | **Ramanathan Holiday, Tara** (OD/CDC/HHS) |
-| **German, Claire** (ASTP/OS/HHS)         | **Ritchey, Matthew** (OD/CDC/HHS)         |
-| **Gleason, Amy** (OD/CMS/HHS)            | **Snyder, John** (HRSA/HHS)               |
-| **Gregurick, Susan** (OD/NIH/HHS)        | **Supplee, Lauren** (KMA/ACF/HHS)         |
-| **Honey, Kristen** (ASTP/OS/HHS)         | **Thomson, Alastair** (TIO/ARPA-H/HHS)    |
-| **Isaacman-Beck, Jesse** (ASTP/OS/HHS)   | **Thornbrugh, Mitchell** (IHS/HHS)        |
-| **Jani, Pooja** (CDRH/FDA/HHS)           | **Trotter, Fred** (OD/CMS/HHS)            |
-| **Juluru, Krishna** (CDRH/FDA/HHS)       | **Vigneshwaran, Shanthi** (ODAR/FDA/HHS)  |
-| **Keane, Thomas** (ASTP/OS/HHS)          | **Walsh, Jeremy** (OC/FDA/HHS)            |
-| **Kessler, Natalie** (OD/CDC/HHS)        | **Ware, Deanna** (OA/HRSA/HHS)            |
-| **Kirilusha, Anthony** (OD/NIH/HHS)      |                                           |
+**Allen, Jelena** (CBHSQ/SAMHSA/HHS), **Kleinstreuer, Nicole** (OD/NIH/HHS), **Beach, Thomas** (ODAR/FDA/HHS), **Layden, Jennifer** (OD/CDC/HHS), **Blase, Alec** (ASTP/OS/HHS), **Mandel, Grace** (OD/CDC/HHS), **Broussard, Cheryl** (OD/CDC/HHS), **Minor, Clark** (IOS/HHS), **Callahan, Kenneth** (IOS/HHS), **Mohan, Chandra** (OMTO/SAMHSA/HHS), **Caponiti, Anthony** (ASTP/OS/HHS), **Morris, Christopher** (KME/ACF/HHS), **Carrazana, Dorn** (CDRH/FDA/HHS), **Ogilvie, Jessica** (OD/CDC/HHS), **Cono, Joanne** (OD/CDC/HHS), **Pishko, Gregory** (ODAR/FDA/HHS), **DeCausemaker, Remy** (DSAC/CMS/HHS), **Posnack, Steve** (ASTP/OS/HHS), **Dillion, Christopher** (NCATS/NIH/HHS), **Ramanathan Holiday, Tara** (OD/CDC/HHS), **German, Claire** (ASTP/OS/HHS), **Ritchey, Matthew** (OD/CDC/HHS), **Gleason, Amy** (OD/CMS/HHS), **Snyder, John** (HRSA/HHS), **Gregurick, Susan** (OD/NIH/HHS), **Supplee, Lauren** (KMA/ACF/HHS), **Honey, Kristen** (ASTP/OS/HHS), **Thomson, Alastair** (TIO/ARPA-H/HHS), **Isaacman-Beck, Jesse** (ASTP/OS/HHS), **Thornbrugh, Mitchell** (IHS/HHS), **Jani, Pooja** (CDRH/FDA/HHS), **Trotter, Fred** (OD/CMS/HHS), **Juluru, Krishna** (CDRH/FDA/HHS), **Vigneshwaran, Shanthi** (ODAR/FDA/HHS), **Keane, Thomas** (ASTP/OS/HHS), **Walsh, Jeremy** (OC/FDA/HHS), **Kessler, Natalie** (OD/CDC/HHS), **Ware, Deanna** (OA/HRSA/HHS), **Kirilusha, Anthony** (OD/NIH/HHS)
 
 Submitted to OMB by **Kristen Honey**, HHS Chief Data Officer, with HHS concurrence including reviews by:  
 **Peter Bowman-Davis**, Chief AI Officer and ASTP Counselor (IOS/HHS)  
-**Kenneth Callahan**, HHS Senior Advisor for Policy and Implementation (IOS/HHS)
+**Kenneth Callahan**, HHS Senior Advisor for Policy and Implementation (IOS/HHS)  
 
+This document is in the public domain and available, per the [Federal Open Data Policy](https://resources.data.gov/open-licenses/), without restriction on copying, publishing, distributing, or adapting the information for any purpose.  
 
 _**Note:** This Living HHS Open Data Plan is not intended to be comprehensive of all data-related work being done at HHS. This information is additive to currently active work and intend to further boost HHS's progress in leveraging data in support of its mission. Given the multi-year time frame of this Living Plan, efforts are subject to review and possible change to maintain alignment with the President’s Management Agenda, HHS Secretary Priorities, and the interagency Federal CDO Council[^8]._
 

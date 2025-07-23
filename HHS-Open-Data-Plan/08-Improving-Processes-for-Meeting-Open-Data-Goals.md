@@ -4,20 +4,19 @@ Data is central to the HHS mission. Data is foundational to the Department, as a
 
 Per the requirements of the OPEN Government Data Act[^66], the HHS CDO will update this section in a future version of the Living HHS Open Data Plan, following the Department’s reorganization.  
 
-[^66]: OMB M-25-05, pages 28-29.
+[^66]: <https://www.congress.gov/bill/115th-congress/house-bill/4174> with OMB implementation guidance M-25-05, see pages 28-29.
 
 *Table 2 - HHS Data Improvement Processes - Current State*  
 
-| **Division** | **Do Data Improvement Processes Exist (Y/N?)** | **Timeliness** | **Completeness** | **Consistency** | **Accuracy** | **Usefulness** | **Availability** |
-|--------------|------------------------------------------------|----------------|------------------|-----------------|--------------|----------------|------------------|
-| AHA          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| OS           | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| ARPA-H       | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| ACFC         | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| CDC          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| CMS          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| FDA          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| IHS          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
-| NIH          | In Review                                      | In Review      | In Review        | In Review       | In Review    | In Review      | In Review        |
+**Division**:  
+- AHA: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- OS: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- ARPA-H: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- ACF: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- CDC: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- CMS: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- FDA: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- IHS: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
+- NIH: **Do Data Improvement Processes Exist (Y/N?)** - In Review, **Timeliness** - In Review, **Completeness** - In Review, **Consistency** -In Review, **Accuracy** - In Review, **Usefulness** - In Review, **Availability** - In Review  
 
 [Back to Table of Contents](#table-of-contents)

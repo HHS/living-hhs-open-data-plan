@@ -1,19 +1,20 @@
 ## HHS Objectives, Values, and Return on Investment (ROI) with Data
 
-| SHARED PURPOSE | CORE VALUES |
-|----------------|-------------|
-| Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans. | 1. TRANSPARENCY: Radical openness by default. | 
-|   | 2. PURPOSE: Data that serves the public good. |
-|   | 3. RELENTLESS OPTIMIZATION: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability. |
-|   | 4. EXCELLENCE: Real-world evidence drives impact. |
-|   | 5. RESPECT: People and patients as equal partners. |
-|   | 6. INTEGRITY: Find the truth. Tell the truth. |  
+**SHARED PURPOSE**: Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans.  
 
-HHS is trusted with personal data by all Americans, patients, and clinicians alike. HHS must honor that trust, by protecting data privacy, while delivering value and rewarding individuals for investing their data and digital stories with us. The HHS Open Data approach aims to ensure that the healthcare and research systems are fully informed with HHS data, ensuring that patients and the public benefit from downstream data marketplace and ecosystems - while balancing the need to minimize unnecessary risks to the individual, including privacy harms and confidentiality, - and embracing our responsibilities. We must ensure that data is not just available, but that it is managed, analyzed, and interpreted with care. Bad analysis can be worse than no analysis, but neither should analysis and interpretation be the sole provenance of HHS. We just need to do a good job going first.  
+**CORE VALUES**:
+1. TRANSPARENCY: Radical openness by default.  
+2. PURPOSE: Data that serves the public good.  
+3. RELENTLESS OPTIMIZATION: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.  
+4. EXCELLENCE: Real-world evidence drives impact.  
+5. RESPECT: People and patients as equal partners.  
+6. INTEGRITY: Find the truth. Tell the truth. 
+
+HHS is trusted with personal data by all Americans, patients, and clinicians alike. HHS must honor that trust, by protecting data privacy, while delivering value and rewarding individuals for investing their data and digital stories with us. The HHS Open Data approach aims to ensure that the healthcare, public health, and research systems are fully informed with HHS data, ensuring that patients and the public benefit from downstream data marketplace and ecosystems - while balancing the need to minimize unnecessary risks to the individual, including privacy harms and confidentiality, - and embracing our responsibilities. We must ensure that data is not just available, but that it is managed, analyzed, and interpreted with care. Bad analysis can be worse than no analysis, but neither should analysis and interpretation be the sole provenance of HHS. We just need to do a good job going first.  
 
 Change will move at the speed of trust. Trust may be defined as “consistency over time,” and this Living Plan acknowledges that HHS can do more to build trust in the ecosystem. Rebuilding and strengthening the public’s trust in HHS data is paramount for HHS Open Data success, and change is here. In 2025, HHS recommits to reliably sharing high-quality data, consistently engaging with radical transparency, adopting “Open” methods (e.g., [Open Science](https://www.science.gov/), [Open Innovation](https://challenge.gov/), [Open Source Code](https://github.com/HHS)), and communicating with opportunities for two-way public engagements, events, and public-private partnerships.  
 
-Such transparency has tradeoffs, and necessitates the balancing of considerations with privacy, national security, and other risks to opening government information. 
+Such transparency has tradeoffs, and necessitates the balancing of considerations of privacy, national security, and other risks to opening government information. 
 
 ### Ensuring Responsible Use and Interpretation of Open Data
 
@@ -22,7 +23,7 @@ The success of the Living HHS Open Data Plan depends not only on making data acc
 [^11]: SOS NSTC. 2019. Open Science Disclosure Risk Management: A Workshop Report and Corresponding Recommendations for the Federal Research Community. A Working Group Report to the SUBCOMMITEE on Open Science, NSTC Committee on Science of the National Science & Technology Council (NSTC). December 2019. 31pp.
 [^12]: <https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview#after>
 
-Building on best practices, such as those demonstrated by HealthData.gov[^13] and CDC Wide-ranging ONline Data for Epidemiologic Research (WONDER)[^14], HHS will explore how to optimally share Open Data with guardrails to guide users in the responsible analysis and interpretation of government data. These measures will mitigate unintended consequences and ensure that HHS data drives meaningful, evidence-based insights that serve the public good. HHS recognizes the importance of transparency and reproducibility in science, particularly for data associated with peer-reviewed publications, so that Open Data[^15][^16][^17] efforts will also strengthen Open Science[^18].  
+Building on best practices, such as those demonstrated by HealthData.gov[^13] and CDC Wide-ranging ONline Data for Epidemiologic Research (WONDER)[^14], HHS will explore how to optimally share Open Data with guardrails to guide users in the responsible analysis and interpretation of government data. These measures will help mitigate unintended consequences and ensure that HHS data drives meaningful, evidence-based insights that serve the public good. HHS recognizes the importance of transparency and reproducibility in science, particularly for data associated with peer-reviewed publications, so that Open Data[^15][^16][^17] efforts will also strengthen Open Science[^18].  
 
 [^13]: <https://healthdata.gov/>
 [^14]: <https://wonder.cdc.gov>
@@ -31,13 +32,13 @@ Building on best practices, such as those demonstrated by HealthData.gov[^13] an
 [^17]: <https://www.cdo.gov/>
 [^18]: <https://www.science.gov/>
 
-As part of future iterations of the Living HHS Open Data Plan, HHS will prioritize efforts to align Open Data practices with the principles of scientific rigor, ensuring that datasets accompanying publications are well-documented, reproducible, and accessible. Acknowledging that poor data analysis can be more harmful than no analysis at all, HHS is committed to fostering a culture of responsible data use, where HHS Open Data not only informs but also empowers users to derive accurate, actionable insights with transparency and reproducibility.  
+As part of future iterations of the Living HHS Open Data Plan, HHS will continue to prioritize efforts to align Open Data practices with the principles of scientific rigor, ensuring that datasets accompanying publications are well-documented, reproducible, and accessible. Acknowledging that poor data analysis can be more harmful than no analysis at all, HHS is committed to fostering a culture of responsible data use, where HHS Open Data not only informs but also empowers users to derive accurate, actionable insights with transparency and reproducibility.  
 
-All HHS Divisions will continue to responsibly share data only when the expected benefits to society outweigh the expected risks, using risk-informed assessments to guide decisions considering dynamic technology changes, privacy safeguarding, national threats, and situational context. HHS will comply with all requirements of OMB M-25-05 and the requirements of 44 U.S.C. § 3511 when disseminating a public data asset pursuant to the Evidence Act.
+All HHS Divisions will continue to responsibly share data when legally permissible and when the expected benefits to society outweigh the expected risks, using risk-informed assessments to guide decisions considering dynamic technology changes, privacy safeguarding, national threats, and situational context. HHS will comply with all requirements of OMB M-25-05 and the requirements of 44 U.S.C. § 3511 when disseminating a public data asset pursuant to the Evidence Act.
 
 ### Open Methods to Improve the Living HHS Open Data Plan
 
-This Living Plan satisfies Office of Management and Budget (OMB) requirements for the Evidence-Based Policymaking Act (Evidence Act) of 2018 Title II—also known as the Open, Public, Electronic, and Necessary (OPEN) Data Government Act[^19]—but its purpose transcends mere box-checking. When Open Data is reduced to a compliance task, organizations lose the transformative spirit of transparency and collaboration. Impactful Open Data requires a cultural shift at every level of an organization, embracing a mindset of “share by default” and “open by default” to democratize access to information as a public good. By distributing power to the people, the future of HHS Open Data aims to empower Americans with timely, machine-readable, high-quality, freely available data from all HHS Divisions, while lifting new data governance models to give U.S. citizens as well as patients more agency and control over their own data.  
+This Living Plan satisfies Office of Management and Budget (OMB) requirements for the Evidence-Based Policymaking Act (Evidence Act) of 2018 Title II—also known as the Open, Public, Electronic, and Necessary (OPEN) Data Government Act[^19]—but its purpose transcends mere box-checking. When Open Data is reduced to a compliance task, organizations lose the transformative spirit of transparency and collaboration. Impactful Open Data requires a cultural shift at every level of an organization, embracing a mindset of “share by default” and “open by default” to democratize access to information as a public good. By distributing power to the people, the future of HHS Open Data aims to empower Americans with timely, machine-readable, high-quality, freely available data from all HHS Divisions, while lifting new data governance models to give U.S. citizens, including patients, more agency and control over their own data.  
 
 [^19]: <https://www.congress.gov/bill/115th-congress/house-bill/4174>
 
@@ -56,7 +57,7 @@ The value of HHS Open Data is far reaching:
 
 ### Everyday Leadership: Driving Open Data Transformation  
 
-Achieving the goals of the Living Plan requires sustained effort and action across all levels of the HHS workforce. Leadership, managers, data stewards, and staff must integrate data into everyday decision-making. We must all foster a culture where data-guided insights drive understanding and impact. HHS Open Data transformation begins with everyday leadership, where every Federal employee can commit to lead by example and work in the open with transparency to expand trust in the agency, in science, and in the data stewarded by HHS. We should strive to all say “yes” by default and responsibly share, when the expected benefits outweigh expected risks, so that historical gatekeeping norms and gatekeeping culture across HHS will be transformed into a data-driven, enabling culture without silos—while safeguarding privacy, security, and risks.
+Achieving the goals of the Living Plan requires sustained effort and action across all levels of the HHS workforce. Leadership, managers, data stewards, and staff must integrate data into everyday decision-making. We must all foster a culture where data-guided insights drive understanding and impact. HHS Open Data transformation begins with everyday leadership, where every Federal employee can commit to lead by example and work in the open with transparency to expand trust in the agency, in science, and in the data stewarded by HHS. We should strive to all say “yes” by default and responsibly share, when legally permissible and when the expected benefits outweigh expected risks, so that historical gatekeeping norms and gatekeeping culture across HHS will be transformed into a data-driven, enabling culture without silos—while safeguarding privacy, security, and risks.
 
 ### Everyone Included: Valuing All Perspectives  
 
@@ -65,10 +66,10 @@ The success of the Living Plan depends on a collective effort across the entire 
 Across all HHS bureaucracy levels in day-to-day work, employees are encouraged to enable a “yes” by default data-sharing culture with transparency to eliminate information silos. All HHS staff can aid this transformation by asking themselves the following three questions:  
 
 **1. How can I responsibly publish more “open by default” data on [HealthData.gov](https://healthdata.gov/)?**  
-It is imperative that federal data is shared with the public when expected societal benefits/rewards outweigh expected costs/risks, and statutory requirements allow. This involves  risk-informed tradeoffs and balancing transparency, accessibility, confidentiality, privacy, and security while ensuring quality, ethical use, and protection of priority data assets.  
+It is imperative that federal data is shared with the public when expected societal benefits/rewards outweigh expected costs/risks, and legal requirements allow. This involves  risk-informed tradeoffs and balancing transparency, accessibility, confidentiality, privacy, and security while ensuring quality, ethical use, and protection of priority data assets.  
 
 **2. How can I more transparently engage, listen, and respond to citizens and public feedback?**  
-The OPEN Government Data Act (Title II, Evidence Act) requires each agency to embrace data sharing with an “open by default” approach for the public. This necessitates public engagement, while  maintaining a strategic Information Resources Management Plan that, to the extent practicable, includes an Open Data Plan.  As a science agency, implementation involves both HHS Open Data[^21] and Open Science[^22] (free public access without paywalls), and successful delivery involves two-way public engagements with responsiveness to citizens.  
+The OPEN Government Data Act (Title II, Evidence Act) requires each agency to embrace data sharing with an “open by default” approach for the public. This necessitates public engagement, while  maintaining a strategic Information Resources Management Plan that, to the extent practicable, includes an Open Data Plan.  As HHS is a science agency, implementation involves both HHS Open Data[^21] and Open Science[^22] (free public access without paywalls), and successful delivery involves two-way public engagements with responsiveness to citizens.  
 
 [^21]: <https://healthdata.gov>
 [^22]: <https://www.science.gov>
