@@ -24,4 +24,6 @@
 &ensp;&ensp;Definitions, Keywords, and Concepts  
 [Appendix B: Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance](#appendix-b-novel-models-of-data-governance-inspired-by-tribal-data-governance-for-radical-collective-self-governance)  
 [Appendix C: HHS Partnerships with Transparency](#appendix-c-hhs-partnerships-with-transparency)  
-[Appendix D: HHS Data Improvement Process – 2025 Status](#appendix-f-hhs-data-improvement-process-2025-status)
+[Appendix D: HHS Data Improvement Process – 2025 Status](#appendix-d-hhs-data-improvement-process-2025-status)
+
+---
