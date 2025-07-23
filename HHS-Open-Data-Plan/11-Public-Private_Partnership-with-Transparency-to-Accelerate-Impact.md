@@ -12,7 +12,7 @@ By combining the strengths of public and private entities, partnerships like the
 
 HHS and its partners must execute collaborative efforts within a shared framework that safeguards individual privacy, maintains confidentiality and integrity, and ensures data security while also “sharing by default” and “open by default” per the Evidence Act.  
 
-Partnerships vary by use case and context matters. No matter the context, however, HHS partnerships  adhere, as applicable, to HIPAA, federal laws, and relevant regulations—simultaneously balancing  radical transparency for public visibility and accountability.  
+Partnerships vary by use case and context matters. No matter the context, however, HHS partnerships adhere to all applicable  federal privacy laws (e.g., HIPAA), statutes and regulations—simultaneously balancing  radical transparency for public visibility and accountability.  
  
 With ethical implementation and ethical modernization, HHS partnerships can strengthen community relationships and foster public trust in government to achieve shared goals, as they optimize the societal benefits through innovative partnerships fueled by HHS Open Data. Well-managed partnerships include protective measures and best practices for open government transparency, co-creation, accountability, and responsiveness to citizens so that all HHS partners harness the power of cross-sector collaboration, while maintaining the highest standards of ethical and legal compliance. All stakeholders—including the public—deserve to have full visibility into an HHS partnership's objectives, methods, progress, and challenges to foster trust and enable continuous improvement through open feedback and scrutiny.  
 
