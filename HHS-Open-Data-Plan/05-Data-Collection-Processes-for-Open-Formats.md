@@ -80,10 +80,10 @@ HHS has outlined a phased approach to achieve its open data objectives in the be
 - **Data Collection Processes in Open Formats to Eliminate Information Silos**: Priority in progress (2025), Done with Open Metrics (2026), Done with Open Metrics (2027), Done with Open Metrics (2028)  
 - **Data Usage Information**: July 2025 launch with [HealthData.gov/analytics](https://healthdata.gov/stories/s/analytics/wdv7-jy83) (2025), Continuous Improvements, Open Metrics (2026), Continuous Improvements, Open Metrics (2027), Continuous Improvements, Open Metrics (2028)  
 - **Prioritizing Public Data Asset Review**: July 2025 launch (2025), Top-10 HHS-Wide, Critical Assets IDed & Published (2026), Next-10 HHS-Wide, Critical Assets IDed & Published (2027), Next-10 HHS-Wide, Critical Assets IDed & Published (2028)  
-- **Improving Processes for Meeting Open Data Goals**: Establish processes for acquiring, updating, repurposing, and improving. In process, TBD (2025), TBD (2026), TBD (2027), TBD (2028)
-- **Intra-HHS Data Sharing — Be the Change**: HHS Report for EO 14243 delivered April with update expected July (2025), Simplified, unified Data Policy adopted across HHS (2026), Done. Visible with Open Metrics (2027), Done. Visible with Open Metrics (2028)
-- **Real-World Data for Impact[^54]**: Priority (2025), Priority (2026), Continuous Improvements (2027), Continuous Improvements (2028)
-- **Public/Private Partnership with Transparency to Accelerate Impact**: At least 1 Partnership Launched (2025), TBD (2026), TBD (2027), TBD (2028)
+- **Improving Processes for Meeting Open Data Goals**: Establish processes for acquiring, updating, repurposing, and improving. In process, TBD (2025), TBD (2026), TBD (2027), TBD (2028)  
+- **Intra-HHS Data Sharing — Be the Change**: HHS Report for EO 14243 delivered April with update expected July (2025), Simplified, unified Data Policy adopted across HHS (2026), Done. Visible with Open Metrics (2027), Done. Visible with Open Metrics (2028)  
+- **Real-World Data for Impact[^54]**: Priority (2025), Priority (2026), Continuous Improvements (2027), Continuous Improvements (2028)  
+- **Public/Private Partnership with Transparency to Accelerate Impact**: At least 1 Partnership Launched (2025), TBD (2026), TBD (2027), TBD (2028)  
 - **Public Engagement with, by, and for “We the People”**: In progress (2025), Continuous Improvements (2026), Done. Visible with Open Metrics (2027), Done. Visible with Open Metrics (2028)
 
 [^54]: <https://www.hhs.gov/press-room/nih-cms-partner-to-research-root-causes-of-autism.html> 
