@@ -35,8 +35,9 @@ Over 30 individuals contributed as co-authors, editors, and contributors to this
 
 Submitted to OMB by **Kristen Honey**, HHS Chief Data Officer, with HHS concurrence including reviews by:  
 **Peter Bowman-Davis**, Chief AI Officer and ASTP Counselor (IOS/HHS)  
-**Kenneth Callahan**, HHS Senior Advisor for Policy and Implementation (IOS/HHS)
+**Kenneth Callahan**, HHS Senior Advisor for Policy and Implementation (IOS/HHS)  
 
+This document is in the public domain and available, per the [Federal Open Data Policy](https://resources.data.gov/open-licenses/), without restriction on copying, publishing, distributing, or adapting the information for any purpose.  
 
 _**Note:** This Living HHS Open Data Plan is not intended to be comprehensive of all data-related work being done at HHS. This information is additive to currently active work and intend to further boost HHS's progress in leveraging data in support of its mission. Given the multi-year time frame of this Living Plan, efforts are subject to review and possible change to maintain alignment with the President’s Management Agenda, HHS Secretary Priorities, and the interagency Federal CDO Council[^8]._
 
