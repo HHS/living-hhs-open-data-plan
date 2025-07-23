@@ -2,13 +2,13 @@
 
 **SHARED PURPOSE**: Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans.  
 
-**CORE VALUES**:
-1. TRANSPARENCY: Radical openness by default.  
-2. PURPOSE: Data that serves the public good.  
-3. RELENTLESS OPTIMIZATION: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.  
-4. EXCELLENCE: Real-world evidence drives impact.  
-5. RESPECT: People and patients as equal partners.  
-6. INTEGRITY: Find the truth. Tell the truth. 
+**CORE VALUES**:  
+1. **TRANSPARENCY**: Radical openness by default.  
+2. **PURPOSE**: Data that serves the public good.  
+3. **RELENTLESS OPTIMIZATION**: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.  
+4. **EXCELLENCE**: Real-world evidence drives impact.  
+5. **RESPECT**: People and patients as equal partners.  
+6. **INTEGRITY**: Find the truth. Tell the truth. 
 
 HHS is trusted with personal data by all Americans, patients, and clinicians alike. HHS must honor that trust, by protecting data privacy, while delivering value and rewarding individuals for investing their data and digital stories with us. The HHS Open Data approach aims to ensure that the healthcare, public health, and research systems are fully informed with HHS data, ensuring that patients and the public benefit from downstream data marketplace and ecosystems - while balancing the need to minimize unnecessary risks to the individual, including privacy harms and confidentiality, - and embracing our responsibilities. We must ensure that data is not just available, but that it is managed, analyzed, and interpreted with care. Bad analysis can be worse than no analysis, but neither should analysis and interpretation be the sole provenance of HHS. We just need to do a good job going first.  
 
