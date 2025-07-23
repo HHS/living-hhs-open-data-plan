@@ -3,6 +3,7 @@
 **SHARED PURPOSE**: Responsibly unleash the power of HHS data, deliver improved services through data, and maximize the nation's return on its investment in data to benefit all Americans.  
 
 **CORE VALUES**:  
+
 1. **TRANSPARENCY**: Radical openness by default.  
 2. **PURPOSE**: Data that serves the public good.  
 3. **RELENTLESS OPTIMIZATION**: Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.  
