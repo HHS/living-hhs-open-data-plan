@@ -86,9 +86,9 @@ HHS embraces continuous improvements to increase its ability to transform raw da
 
 Core values underpin the HHS Open Data community, underlying every aspect of this plan.  
 1. **TRANSPARENCY:** Openness by default.  
-2. **PURPOSE:** Data must serve the public good.  
-3. **RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.  
-4. **EXCELLENCE:** Real-world evidence with standards driving impact.  
+2. **PURPOSE:** Data must serve the public good.  \
+3. **RELENTLESS OPTIMIZATION:** Adapt, refine, and improve using agile methods, two-way feedback, a growth mindset, and accountability.\
+4. **EXCELLENCE:** Real-world evidence with standards driving impact.<br>
 5. **RESPECT:** People and patients as equal partners.  
 6. **INTEGRITY:** Find the truth. Tell the truth.
 
