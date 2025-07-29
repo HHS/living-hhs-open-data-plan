@@ -21,6 +21,20 @@ This multi-year Living Plan details how HHS intends to use data in service of it
  
 Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)
 
+## Feedback
+
+Interested in submitting your feedback on the Living HHS Open Data Plan? Follow the steps below to share your thoughts, suggest ideas, and submit comments to us!
+
+### Tell Us About Your Experience with the Living HHS Open Data Plan
+
+If you have feedback on the Living HHS Open Data Plan, please let us know by filing an [issue on our GitHub repository](https://hhs.github.io/lodp-form/) or participating in a discussion.  
+
+All submissions and chats will be open for public users to read online, so please adhere to the [HHS Code of Conduct](CODE_OF_CONDUCT.md).
+
+### Contributing
+
+If you'd like to contribute directly to Living HHS Open Data Plan, please follow our contributing guidelines [here](CONTRIBUTING.md).
+
 ## Policies
 
 ### Open Source Policy
