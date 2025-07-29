@@ -13,6 +13,8 @@ Criteria for prioritizing datasets may include:
 [^64]: <https://www.hhs.gov/foia/electronic-reading-room/>
 [^65]: <https://www.hrsa.gov/foia/electronic-reading>
 
+>_HHS proactively publishes its FOIA responses as Open Data in "Electronic Reading Rooms," like the [HRSA Electronic Reading Room](https://www.hrsa.gov/foia/electronic-reading), once a low threshold of three or more public inquiries is met through FOIA requests._
+
 Data-driven approaches with focused criteria and standards will ensure HHS data sharing provides value to our partners in the private sector, public institutions, non-profit organizations, and beyond. By prioritizing high-impact datasets, we aim to facilitate groundbreaking research, inform policy decisions, and drive results while being responsive and agile with HHS Open Data to address the government service and healthcare issues of most importance to you.  
 
 We encourage all our partners to engage with HHS Open Data and provide feedback on their utility and impact. Together, we can leverage the power of data to address critical health challenges, enhance service delivery, and improve the well-being of all Americans. 
