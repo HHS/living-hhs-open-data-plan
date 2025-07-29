@@ -80,7 +80,11 @@ Responsible data sharing with a “yes” enabling culture is a good step and ne
 
 Lastly, HHS Open Data is not just about numbers; it is about the people with the human dimensions. With a holistic view of data science, HHS must prioritize the lifting of people and sharing data-driven stories. To emphasize the human impacts, the 2025 HealthData.gov refresh renamed its blog page to a stories page. [HealthData.gov stories are data with a soul](https://healthdata.gov/browse?limitTo=story)[^23] to connect our HHS data with collective purpose.  
 
-[^23:]: <https://healthdata.gov/browse?limitTo=story>
+[^23]: <https://healthdata.gov/browse?limitTo=story>
+
+>**HHS GitHub — Open Data in Action**  
+><https://hhs.github.io/lodp-form>  
+>_Identify gaps or omissions in the Living HHS Open Data Plan, including emerging technologies, Open Data trends, issues, or priorities that should be addressed in future updates._
 
 By addressing the above questions and embracing a culture of transparency, collaboration, and accountability, HHS commits to unlocking the full potential of its data to enhance the health and well-being of all Americans. Join us!  
 
