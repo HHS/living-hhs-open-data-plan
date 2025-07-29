@@ -2,6 +2,8 @@
 
 The  “spirit” of the [Evidence Act](https://www.congress.gov/bill/115th-congress/house-bill/4174), for which the OPEN Government Data Act is Title II, is to ask and answer questions (build evidence) to support policymaking. HHS intends to collect, use, and acquire data to apply it in ways for the betterment of the nation. This includes rigorous application of the scientific method to test scientific hypotheses, while following the data wherever the data lead. HHS, like all Federal government, should use data to maximize the impact of science, programs, and services for the common good.  
 
+>_Real-World Data provides a foundation for a “Learning Health System” that can rapidly adapt to changing circumstances, emergent diseases, and enable learning from the treatment of patients to inform others with the same condition._
+
 Real-world data (RWD[^68]) and real-world evidence (RWE[^69]) align with HHS Open Data values and goals to drive healthcare innovation, transparency, and improved outcomes. HHS promotes open access to and interoperability of RWD, using data-sharing and access methods compliant with applicable laws, such as the Health Insurance Portability and Accountability Act of 1996 (HIPAA), which applies to certain information when it is created, received, maintained, or transmitted by, or on behalf of, health plans, health care clearinghouses, and certain health care providers. 
 
 [^68]: <https://www.hhs.gov/press-room/nih-cms-partner-to-research-root-causes-of-autism.html> 
@@ -14,6 +16,10 @@ At the core of the Living HHS Open Data Plan for RWD lies the concept that data 
 At the core of the Living HHS Open Data Plan for RWD lies the concept that data is a “public utility” for good that powers scientific advancement, innovation, and progress. Public utilities exist because the community has recognized that the service or product they provide is essential to the life and health of Americans. In today’s world, the public needs access to healthcare and public health data, which allows individuals to take control of their own health and allows aggregate, anonymized, deidentified data to be leveraged for innovation.  
 
 HHS supports public and private partnerships for data utility models that increase data access for public consumers, including patients, providers, payers, state agencies, and researchers. The health utility concept is emerging today based on lessons learned from early gains by Health Information Exchanges (HIEs), and by expanding the role of HIEs into a public utility or Health Data Utilities (HDUs). HIEs have provided critical and timely patient data to aid in treatment across health care providers, but new governance models will be necessary to empower patients and ensure HHS transparency, accountability, and responsiveness to citizen prioritizes and real-world needs.  
+
+>**HHS GitHub — Open Data in Action**  
+><https://hhs.github.io/lodp-form>  
+>_Highlight public-private partnerships, collaborations, or cross-sector initiatives powered by HHS Open Data that deliver measurable impact and deserve inclusion in future versions of the Living Plan._
 
 The on-going HIEs evolution into HDUs is opportunity for the HHS CDO and partners to pilot novel data governance methods and pioneer new approaches to interoperability. This progress with HIEs is informative and important, yet alone it is not sufficient to enable a nationwide learning health system. The CDO expects to pilot novel data governance models with industry, academia, non-profit organizations, and all sectors—including individuals with lived experiences, like patients and caregivers, as partners—to co-create new modes of data governance in collaboration with HHS.  
 
