@@ -8,7 +8,7 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 
 ## Getting Started
 
-If you would like to comment and provide feedback on the Living Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-form/).**
+If you would like to comment and provide feedback on the Living Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-ux/).**
 
 ### Contribution Guidelines
 
