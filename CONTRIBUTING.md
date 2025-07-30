@@ -43,7 +43,7 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 
 ### Writing Issues
 
-If you would like to comment on the Living HHS Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-form/).**
+If you would like to comment on the Living HHS Open Data Plan, please let us know by filing an **[issue on our GitHub repository](https://hhs.github.io/lodp-ux/).**
 
 ### Writing Pull Requests
 
