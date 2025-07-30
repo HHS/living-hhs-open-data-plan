@@ -2,7 +2,7 @@
 
 The **Living HHS Open Data Plan, version 1.0. Updated July 22, 2025**, led by the [HHS Chief Data Officer (CDO)](https://cdo.hhs.gov/s/), align with the OPEN Government Data Act and the broader goals of the [Foundations for Evidence-Based Policymaking Act (Evidence Act)](https://aspe.hhs.gov/topics/data/evidence-act-0) signed by President Trump in January 2019. 
 
-**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub: <https://github.com/HHS/living-hhs-open-data-plan>**
+**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub:** <https://github.com/HHS/living-hhs-open-data-plan> with user experience (UX) page <https://hhs.github.io/lodp-UX>
  
 Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)
 
@@ -17,7 +17,7 @@ Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cd
 
 This multi-year Living Plan details how HHS intends to use data in service of its mission to enhance the health and well-being of all Americans. As part of this document, HHS explains the reasons why the Living HHS Open Data Plan exists and the rules it must follow for implementation success, while sharing credit with the HHS team that worked hard to create it.
 
-**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub: <https://github.com/HHS/living-hhs-open-data-plan>**
+**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub:** <https://github.com/HHS/living-hhs-open-data-plan> with user experience (UX) page https://hhs.github.io/lodp-UX
  
 Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)
 
