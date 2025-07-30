@@ -43,9 +43,9 @@ This Living Plan satisfies Office of Management and Budget (OMB) requirements fo
 
 [^19]: <https://www.congress.gov/bill/115th-congress/house-bill/4174>
 
-This Living HHS Open Data Plan is designed to evolve with public input and feedback. It is modular, so each chapter is its own independent GitHub file for the public to submit issues and ideas, in response to a general HHS request for public input and comments. The [HHS GitHub “Tell Us About Your Experience with the HHS Open Data Plan”](https://hhs.github.io/lodp-ux)[^20] is an online form with open-ended space for public response. With this agile approach, HHS aims to avoid the pitfalls of bureaucratic compliance while maintaining focus on the ultimate goal: fostering collaboration and unlocking the transformative power of data for operational efficiency, scientific discovery, innovation, and public impact.  
+This Living HHS Open Data Plan is designed to evolve with public input and feedback. It is modular, so each chapter is its own independent GitHub file for the public to submit issues and ideas, in response to a general HHS request for public input and comments. The [HHS GitHub “Tell Us About Your Experience with the HHS Open Data Plan”](https://hhs.github.io/lodp-UX)[^20] is an online form with open-ended space for public response. With this agile approach, HHS aims to avoid the pitfalls of bureaucratic compliance while maintaining focus on the ultimate goal: fostering collaboration and unlocking the transformative power of data for operational efficiency, scientific discovery, innovation, and public impact.  
 
-[^20]: <https://hhs.github.io/lodp-ux>
+[^20]: <https://hhs.github.io/lodp-UX>
 
 The value of HHS Open Data is far reaching:  
 
@@ -83,7 +83,7 @@ Lastly, HHS Open Data is not just about numbers; it is about the people with the
 [^23]: <https://healthdata.gov/browse?limitTo=story>
 
 >**HHS GitHub — Open Data in Action**  
-><https://hhs.github.io/lodp-ux>  
+><https://hhs.github.io/lodp-UX>  
 >_Identify gaps or omissions in the Living HHS Open Data Plan, including emerging technologies, Open Data trends, issues, or priorities that should be addressed in future updates._
 
 By addressing the above questions and embracing a culture of transparency, collaboration, and accountability, HHS commits to unlocking the full potential of its data to enhance the health and well-being of all Americans. Join us!  
