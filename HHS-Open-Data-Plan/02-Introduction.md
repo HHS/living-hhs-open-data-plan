@@ -22,7 +22,7 @@ This work also advances HHS implementation of the Source code Harmonization And 
 [^6]: <https://www.cms.gov/digital-service>
 [^7]: <https://github.com/HHS/living-hhs-open-data-plan>
 
-**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub:** <https://github.com/HHS/living-hhs-open-data-plan>  
+**HHS encourages public engagement and input on the Living HHS Open Data Plan via GitHub:** <https://github.com/HHS/living-hhs-open-data-plan> with user experience (UX) page <https://hhs.github.io/lodp-UX>  
 
 Alternately, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)  
 
