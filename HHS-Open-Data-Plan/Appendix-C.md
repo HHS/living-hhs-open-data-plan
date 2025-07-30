@@ -2,9 +2,9 @@
 
 In the spirit of radical transparency and co-creating the future with the public, HHS welcomes general feedback from the public on this preliminary vision to guide future public-private partnerships.  
 
-**HHS encourages public engagement and input** on the [Living HHS Open Data Plan on GitHub](https://hhs.github.io/lodp-form)[^86].  
+**HHS encourages public engagement and input** on the [Living HHS Open Data Plan on GitHub](https://hhs.github.io/lodp-ux)[^86].  
 
-[^86]: <https://hhs.github.io/lodp-form>
+[^86]: <https://hhs.github.io/lodp-ux>
 
 For inquiries or feedback you prefer not to make public on GitHub, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)  
 
