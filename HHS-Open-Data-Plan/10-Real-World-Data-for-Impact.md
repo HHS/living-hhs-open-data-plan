@@ -18,7 +18,7 @@ At the core of the Living HHS Open Data Plan for RWD lies the concept that data 
 HHS supports public and private partnerships for data utility models that increase data access for public consumers, including patients, providers, payers, state agencies, and researchers. The health utility concept is emerging today based on lessons learned from early gains by Health Information Exchanges (HIEs), and by expanding the role of HIEs into a public utility or Health Data Utilities (HDUs). HIEs have provided critical and timely patient data to aid in treatment across health care providers, but new governance models will be necessary to empower patients and ensure HHS transparency, accountability, and responsiveness to citizen prioritizes and real-world needs.  
 
 >**HHS GitHub — Open Data in Action**  
-><https://hhs.github.io/lodp-ux>  
+><https://hhs.github.io/lodp-UX>  
 >_Highlight public-private partnerships, collaborations, or cross-sector initiatives powered by HHS Open Data that deliver measurable impact and deserve inclusion in future versions of the Living Plan._
 
 The on-going HIEs evolution into HDUs is opportunity for the HHS CDO and partners to pilot novel data governance methods and pioneer new approaches to interoperability. This progress with HIEs is informative and important, yet alone it is not sufficient to enable a nationwide learning health system. The CDO expects to pilot novel data governance models with industry, academia, non-profit organizations, and all sectors—including individuals with lived experiences, like patients and caregivers, as partners—to co-create new modes of data governance in collaboration with HHS.  
