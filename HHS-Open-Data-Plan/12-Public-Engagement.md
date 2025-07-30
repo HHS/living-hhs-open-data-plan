@@ -33,6 +33,11 @@ The HHS Open Data community embraces agile methods. Agile methods include human-
 
 Open data excellence is a shared effort that will improve with your input and iterating collaboratively with this Living Plan. HHS welcomes and values input from all the public across all sectors. Cross-sector lessons learned and insights will improve HHS efforts to responsibly unlock data, share information, and deliver mission while following the data wherever the data lead.  
 
-For inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)
+**HHS encourages public engagement and input on the** [Living HHS Open Data Plan via GitHub](https://github.com/HHS/living-hhs-open-data-plan)[^81]**with a user-friendly** [HHS GitHub UX page](https://hhs.github.io/lodp-UX)[^82].  
+
+[^81]: <https://github.com/HHS/living-hhs-open-data-plan>
+[^82]: <https://hhs.github.io/lodp-UX>
+
+Alternatively, for inquiries and feedback, please contact: [cdo@hhs.gov](mailto:cdo@hhs.gov)
 
 [Back to Table of Contents](#table-of-contents)
