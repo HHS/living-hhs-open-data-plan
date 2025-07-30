@@ -11,7 +11,7 @@ HHS is committed to transforming its data collection processes to meet the highe
 [^30]: 29 U.S.C. § 794d(a)(1)(A)
 
 >**HHS GitHub — Open Data in Action**  
-><https://hhs.github.io/lodp-ux>  
+><https://hhs.github.io/lodp-UX>  
 >_Recommend best practices for data collection, management, or usage in open formats to help HHS achieve its Open Data goals, including intra-HHS data sharing and Real-World Data (RWD) exchanges._
 
 ### Completed Projects
@@ -66,7 +66,7 @@ Building upon past achievements, the HHS CDO and data leaders across the Departm
 [^53]: <https://www.hhs.gov/hhs-big-wins-maha/>
 
 >**HHS GitHub — Open Data in Action**  
-><https://hhs.github.io/lodp-ux>  
+><https://hhs.github.io/lodp-UX>  
 >_Propose ideas or examples for piloting innovative data governance models with patients, industry, academia, and other sectors to improve health data governance and transparency._
 
 Future HHS DGB iterations will benefit from increased transparency (e.g., public meetings), modernized technology (e.g., all HHS Divisions connected to file share), and expanded engagement with external experts (e.g., Special Government Employees [SGEs]). This will necessitate coordination with the Federal CDC Council and across HHS, including working with HHS legal and ethics officials, Counsel, HHS data stewards, and HHS offices with equities in the Evidence Act, SHARE IT Act, Information Quality Act, Sunshine Laws, the Federal Advisory Committee Act (FACA), Paperwork Reduction Act (PRA), and other laws that influence DGB options for engaging the public and SGEs. It will also necessitate novel approaches, as described in Appendix B - Novel Models of Data Governance: Inspired by Tribal Data Governance for Radical, Collective, Self-Governance.  
